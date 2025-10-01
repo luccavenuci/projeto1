@@ -1,10 +1,10 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/claro.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
 ------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="" tvg-name="• Rede Globo EPTV Campinas FHD" tvg-logo="http://img.slim.re/imagens/canais/globo.png" group-title="CANAIS GLOBO",• Rede Globo EPTV Campinas FHD
+#EXTINF:-1 tvg-id="" tvg-name="Rede Globo EPTV Campinas FHD" tvg-logo="http://img.slim.re/imagens/canais/globo.png" group-title="CANAIS GLOBO",Rede Globo EPTV Campinas FHD
 http://protec.2pds.top:80/892849957/011595894/203534
-#EXTINF:-1 tvg-id="" tvg-name="• Rede Globo EPTV Campinas HD" tvg-logo="http://img.slim.re/imagens/canais/globo.png" group-title="CANAIS GLOBO",• Rede Globo EPTV Campinas HD
+#EXTINF:-1 tvg-id="" tvg-name="Rede Globo EPTV Campinas HD" tvg-logo="http://img.slim.re/imagens/canais/globo.png" group-title="CANAIS GLOBO",Rede Globo EPTV Campinas HD
 http://protec.2pds.top:80/892849957/011595894/203535
-#EXTINF:-1 tvg-id="" tvg-name="• Rede Globo EPTV Campinas SD" tvg-logo="http://img.slim.re/imagens/canais/globo.png" group-title="CANAIS GLOBO",• Rede Globo EPTV Campinas SD
+#EXTINF:-1 tvg-id="" tvg-name="Rede Globo EPTV Campinas SD" tvg-logo="http://img.slim.re/imagens/canais/globo.png" group-title="CANAIS GLOBO",Rede Globo EPTV Campinas SD
 http://protec.2pds.top:80/892849957/011595894/203536
 #EXTINF:-1 tvg-id="br#tv-verdes-mares-hd" tvg-name="TV VERDES MARES CARIRI HD" tvg-logo="https://i.postimg.cc/ZR0ZPb3k/globo.png" group-title="CANAIS GLOBOS",TV VERDES MARES CARIRI HD
 http://facilita.fun:80/811911153/414376531/9513722.ts
@@ -31,9 +31,9 @@ http://srv1.cc:80/664086854/131189925/6423014.ts
 http://srv1.cc:80/664086854/131189925/6423016.ts
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT RJ HD" tvg-logo="https://i.postimg.cc/7hpBRrwD/sbt1.png" group-title="CANAIS SBT",SBT RJ HD
 http://srv1.cc:80/664086854/131189925/6423017.ts
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="• SBT TV Jangadeiro Ceará HD" tvg-logo="http://img.slim.re/imagens/canais/SBT.png" group-title="CANAIS SBT",• SBT TV Jangadeiro Ceará HD
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT TV Jangadeiro Ceará HD" tvg-logo="http://img.slim.re/imagens/canais/SBT.png" group-title="CANAIS SBT",SBT TV Jangadeiro Ceará HD
 http://facilita.fun:80/811911153/414376531/9514700.ts
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="• SBT TV Jangadeiro Ceará SD" tvg-logo="http://img.slim.re/imagens/canais/SBT.png" group-title="CANAIS SBT",• SBT TV Jangadeiro Ceará SD
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT TV Jangadeiro Ceará SD" tvg-logo="http://img.slim.re/imagens/canais/SBT.png" group-title="CANAIS SBT",SBT TV Jangadeiro Ceará SD
 http://facilita.fun:80/811911153/414376531/9514701.ts
 ---------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="Record SP FHD [H265]" tvg-logo="https://i.postimg.cc/jdyjDqp6/record1.png" group-title="CANAIS RECORD",Record SP FHD [H265]
@@ -44,260 +44,220 @@ http://srv1.cc:80/664086854/131189925/6423082.ts
 http://srv1.cc:80/664086854/131189925/6423083.ts
 #EXTINF:-1 tvg-id="Record.br" tvg-name="RECORD TV CIDADE CEARA" tvg-logo="https://i.postimg.cc/jdyjDqp6/record1.png" group-title="CANAIS RECORD",RECORD TV CIDADE CEARA
 http://srv1.cc:80/664086854/131189925/6423084.ts
-#EXTINF:-1 tvg-id="Record.br" tvg-name="• Record TV Manaus SD" tvg-logo="http://img.slim.re/imagens/canais/Record.png" group-title="CANAIS RECORD",• Record TV Manaus SD
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record TV Manaus SD" tvg-logo="http://img.slim.re/imagens/canais/Record.png" group-title="CANAIS RECORD",Record TV Manaus SD
 http://facilita.fun:80/811911153/414376531/9514659.ts
-#EXTINF:-1 tvg-id="RecordTVMinas.br" tvg-name="• Record TV Minas HD" tvg-logo="http://img.slim.re/imagens/canais/Record.png" group-title="CANAIS RECORD",• Record TV Minas HD
+#EXTINF:-1 tvg-id="RecordTVMinas.br" tvg-name="Record TV Minas HD" tvg-logo="http://img.slim.re/imagens/canais/Record.png" group-title="CANAIS RECORD",Record TV Minas HD
 http://facilita.fun:80/811911153/414376531/9514660.ts
-#EXTINF:-1 tvg-id="RecordTVMinas.br" tvg-name="• Record TV Minas SD" tvg-logo="http://img.slim.re/imagens/canais/Record.png" group-title="CANAIS RECORD",• Record TV Minas SD
+#EXTINF:-1 tvg-id="RecordTVMinas.br" tvg-name="Record TV Minas SD" tvg-logo="http://img.slim.re/imagens/canais/Record.png" group-title="CANAIS RECORD",Record TV Minas SD
 http://facilita.fun:80/811911153/414376531/9514661.ts
 -------------------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="br#band-brasilia" tvg-name="• Band Brasília HD" tvg-logo="http://img.slim.re/imagens/canais/Band.png" group-title="CANAIS BAND",• Band Brasília HD
+#EXTINF:-1 tvg-id="" tvg-name="Band Bahia HD" tvg-logo="http://img.slim.re/imagens/canais/Band.png" group-title="CANAIS BAND",Band Bahia HD
+http://protec.2pds.top:80/892849957/011595894/203778
+#EXTINF:-1 tvg-id="" tvg-name="Band Bahia SD" tvg-logo="http://img.slim.re/imagens/canais/Band.png" group-title="CANAIS BAND",Band Bahia SD
+http://protec.2pds.top:80/892849957/011595894/203779
+#EXTINF:-1 tvg-id="" tvg-name="Band Belém HD" tvg-logo="http://img.slim.re/imagens/canais/Band.png" group-title="CANAIS BAND",Band Belém HD
+http://protec.2pds.top:80/892849957/011595894/203780
+#EXTINF:-1 tvg-id="" tvg-name="Band Belém SD" tvg-logo="http://img.slim.re/imagens/canais/Band.png" group-title="CANAIS BAND",Band Belém SD
+http://protec.2pds.top:80/892849957/011595894/203781
+#EXTINF:-1 tvg-id="" tvg-name="Band Brasília HD" tvg-logo="http://img.slim.re/imagens/canais/Band.png" group-title="CANAIS BAND",Band Brasília HD
+http://protec.2pds.top:80/892849957/011595894/203782
+#EXTINF:-1 tvg-id="br#band-brasilia" tvg-name="Band Brasília HD" tvg-logo="http://img.slim.re/imagens/canais/Band.png" group-title="CANAIS BAND",Band Brasília HD
 http://facilita.fun:80/811911153/414376531/9514726.ts
-#EXTINF:-1 tvg-id="br#band-brasilia" tvg-name="• Band Brasília SD" tvg-logo="http://img.slim.re/imagens/canais/Band.png" group-title="CANAIS BAND",• Band Brasília SD
+#EXTINF:-1 tvg-id="br#band-brasilia" tvg-name="Band Brasília SD" tvg-logo="http://img.slim.re/imagens/canais/Band.png" group-title="CANAIS BAND",Band Brasília SD
 http://facilita.fun:80/811911153/414376531/9514727.ts
-#EXTINF:-1 tvg-id="br#band" tvg-name="• Band Campinas HD" tvg-logo="http://img.slim.re/imagens/canais/Band.png" group-title="CANAIS BAND",• Band Campinas HD
+#EXTINF:-1 tvg-id="br#band" tvg-name="Band Campinas HD" tvg-logo="http://img.slim.re/imagens/canais/Band.png" group-title="CANAIS BAND",Band Campinas HD
 http://facilita.fun:80/811911153/414376531/9514728.ts
-#EXTINF:-1 tvg-id="br#band-minas" tvg-name="• Band Campinas SD" tvg-logo="http://img.slim.re/imagens/canais/Band.png" group-title="CANAIS BAND",• Band Campinas SD
+#EXTINF:-1 tvg-id="br#band-minas" tvg-name="Band Campinas SD" tvg-logo="http://img.slim.re/imagens/canais/Band.png" group-title="CANAIS BAND",Band Campinas SD
 http://facilita.fun:80/811911153/414376531/9514729.ts
-#EXTINF:-1 tvg-id="Bbndpr.br" tvg-name="BAND PARANA HD" tvg-logo="https://i.postimg.cc/SKhL10tL/band.png" group-title="CANAIS BAND",BAND PARANA HD
-http://srv1.cc:80/664086854/131189925/4908873.ts
-#EXTINF:-1 tvg-id="band.br" tvg-name="BAND RJ FHD" tvg-logo="https://i.postimg.cc/SKhL10tL/band.png" group-title="CANAIS BAND",BAND RJ FHD
-http://srv1.cc:80/664086854/131189925/4908874.ts
-#EXTINF:-1 tvg-id="band.br" tvg-name="BAND RJ HD" tvg-logo="https://i.postimg.cc/SKhL10tL/band.png" group-title="CANAIS BAND",BAND RJ HD
-http://srv1.cc:80/664086854/131189925/4908875.ts
-#EXTINF:-1 tvg-id="band.br" tvg-name="BAND RJ SD" tvg-logo="https://i.postimg.cc/SKhL10tL/band.png" group-title="CANAIS BAND",BAND RJ SD
-http://srv1.cc:80/664086854/131189925/4908876.ts
 ---------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="" tvg-name="• Cartoon Network FHD" tvg-logo="http://img.slim.re/imagens/canais/Cartoon-Network.png" group-title="CANAIS INFANTIS",• Cartoon Network FHD
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network FHD" tvg-logo="http://img.slim.re/imagens/canais/Cartoon-Network.png" group-title="CANAIS INFANTIS",Cartoon Network FHD
 http://protec.2pds.top:80/892849957/011595894/204293
-#EXTINF:-1 tvg-id="" tvg-name="• Cartoon Network HD" tvg-logo="http://img.slim.re/imagens/canais/Cartoon-Network.png" group-title="CANAIS INFANTIS",• Cartoon Network HD
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="http://img.slim.re/imagens/canais/Cartoon-Network.png" group-title="CANAIS INFANTIS",Cartoon Network HD
 http://protec.2pds.top:80/892849957/011595894/204294
-#EXTINF:-1 tvg-id="" tvg-name="• Cartoon Network SD" tvg-logo="http://img.slim.re/imagens/canais/Cartoon-Network.png" group-title="CANAIS INFANTIS",• Cartoon Network SD
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network SD" tvg-logo="http://img.slim.re/imagens/canais/Cartoon-Network.png" group-title="CANAIS INFANTIS",Cartoon Network SD
 http://protec.2pds.top:80/892849957/011595894/204295
-#EXTINF:-1 tvg-id="" tvg-name="• Cartoonito HD" tvg-logo="http://img.slim.re/imagens/canais/Cartoonito.png" group-title="CANAIS INFANTIS",• Cartoonito HD
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito HD" tvg-logo="http://img.slim.re/imagens/canais/Cartoonito.png" group-title="CANAIS INFANTIS",Cartoonito HD
 http://protec.2pds.top:80/892849957/011595894/204296
-#EXTINF:-1 tvg-id="" tvg-name="• Cartoonito SD" tvg-logo="http://img.slim.re/imagens/canais/Cartoonito.png" group-title="CANAIS INFANTIS",• Cartoonito SD
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito SD" tvg-logo="http://img.slim.re/imagens/canais/Cartoonito.png" group-title="CANAIS INFANTIS",Cartoonito SD
 http://protec.2pds.top:80/892849957/011595894/204297
-#EXTINF:-1 tvg-id="" tvg-name="• Cartoonito_FHD" tvg-logo="http://img.slim.re/imagens/canais/Cartoonito.png" group-title="CANAIS INFANTIS",• Cartoonito_FHD
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito_FHD" tvg-logo="http://img.slim.re/imagens/canais/Cartoonito.png" group-title="CANAIS INFANTIS",Cartoonito_FHD
 http://protec.2pds.top:80/892849957/011595894/204298
-#EXTINF:-1 tvg-id="" tvg-name="• Discovery Kids FHD" tvg-logo="http://img.slim.re/imagens/canais/DISCOVERY-KIDS.png" group-title="CANAIS INFANTIS",• Discovery Kids FHD
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids FHD" tvg-logo="http://img.slim.re/imagens/canais/DISCOVERY-KIDS.png" group-title="CANAIS INFANTIS",Discovery Kids FHD
 http://protec.2pds.top:80/892849957/011595894/204299
-#EXTINF:-1 tvg-id="" tvg-name="• Discovery Kids HD" tvg-logo="http://img.slim.re/imagens/canais/DISCOVERY-KIDS.png" group-title="CANAIS INFANTIS",• Discovery Kids HD
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD" tvg-logo="http://img.slim.re/imagens/canais/DISCOVERY-KIDS.png" group-title="CANAIS INFANTIS",Discovery Kids HD
 http://protec.2pds.top:80/892849957/011595894/204300
-#EXTINF:-1 tvg-id="" tvg-name="• Discovery Kids SD" tvg-logo="http://img.slim.re/imagens/canais/DISCOVERY-KIDS.png" group-title="CANAIS INFANTIS",• Discovery Kids SD
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids SD" tvg-logo="http://img.slim.re/imagens/canais/DISCOVERY-KIDS.png" group-title="CANAIS INFANTIS",Discovery Kids SD
 http://protec.2pds.top:80/892849957/011595894/204301
-#EXTINF:-1 tvg-id="" tvg-name="• Gloob FHD" tvg-logo="http://img.slim.re/imagens/canais/Gloob.png" group-title="CANAIS INFANTIS",• Gloob FHD
+#EXTINF:-1 tvg-id="" tvg-name="Gloob FHD" tvg-logo="http://img.slim.re/imagens/canais/Gloob.png" group-title="CANAIS INFANTIS",Gloob FHD
 http://protec.2pds.top:80/892849957/011595894/204305
-#EXTINF:-1 tvg-id="" tvg-name="• Gloob HD" tvg-logo="http://img.slim.re/imagens/canais/Gloob.png" group-title="CANAIS INFANTIS",• Gloob HD
+#EXTINF:-1 tvg-id="" tvg-name="Gloob HD" tvg-logo="http://img.slim.re/imagens/canais/Gloob.png" group-title="CANAIS INFANTIS",Gloob HD
 http://protec.2pds.top:80/892849957/011595894/204306
-#EXTINF:-1 tvg-id="" tvg-name="• Gloob SD" tvg-logo="http://img.slim.re/imagens/canais/Gloob.png" group-title="CANAIS INFANTIS",• Gloob SD
+#EXTINF:-1 tvg-id="" tvg-name="Gloob SD" tvg-logo="http://img.slim.re/imagens/canais/Gloob.png" group-title="CANAIS INFANTIS",Gloob SD
 http://protec.2pds.top:80/892849957/011595894/204307
-#EXTINF:-1 tvg-id="" tvg-name="• Gloobinho FHD" tvg-logo="http://img.slim.re/imagens/canais/Gloobinho.png" group-title="CANAIS INFANTIS",• Gloobinho FHD
+#EXTINF:-1 tvg-id="" tvg-name="Gloobinho FHD" tvg-logo="http://img.slim.re/imagens/canais/Gloobinho.png" group-title="CANAIS INFANTIS",Gloobinho FHD
 http://protec.2pds.top:80/892849957/011595894/204308
-#EXTINF:-1 tvg-id="" tvg-name="• Gloobinho HD" tvg-logo="http://img.slim.re/imagens/canais/Gloobinho.png" group-title="CANAIS INFANTIS",• Gloobinho HD
+#EXTINF:-1 tvg-id="" tvg-name="Gloobinho HD" tvg-logo="http://img.slim.re/imagens/canais/Gloobinho.png" group-title="CANAIS INFANTIS",Gloobinho HD
 http://protec.2pds.top:80/892849957/011595894/204309
-#EXTINF:-1 tvg-id="" tvg-name="• Gloobinho SD" tvg-logo="http://img.slim.re/imagens/canais/Gloobinho.png" group-title="CANAIS INFANTIS",• Gloobinho SD
+#EXTINF:-1 tvg-id="" tvg-name="Gloobinho SD" tvg-logo="http://img.slim.re/imagens/canais/Gloobinho.png" group-title="CANAIS INFANTIS",Gloobinho SD
 http://protec.2pds.top:80/892849957/011595894/204310
-#EXTINF:-1 tvg-id="" tvg-name="• Nick Jr HD" tvg-logo="http://img.slim.re/imagens/canais/NICK-JR.png" group-title="CANAIS INFANTIS",• Nick Jr HD
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr HD" tvg-logo="http://img.slim.re/imagens/canais/NICK-JR.png" group-title="CANAIS INFANTIS",Nick Jr HD
 http://protec.2pds.top:80/892849957/011595894/204311
-#EXTINF:-1 tvg-id="" tvg-name="• Nick Jr SD" tvg-logo="http://img.slim.re/imagens/canais/NICK-JR.png" group-title="CANAIS INFANTIS",• Nick Jr SD
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr SD" tvg-logo="http://img.slim.re/imagens/canais/NICK-JR.png" group-title="CANAIS INFANTIS",Nick Jr SD
 http://protec.2pds.top:80/892849957/011595894/204312
-#EXTINF:-1 tvg-id="" tvg-name="• Nickelodeon FHD" tvg-logo="http://img.slim.re/imagens/canais/Nick.png" group-title="CANAIS INFANTIS",• Nickelodeon FHD
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon FHD" tvg-logo="http://img.slim.re/imagens/canais/Nick.png" group-title="CANAIS INFANTIS",Nickelodeon FHD
 http://protec.2pds.top:80/892849957/011595894/204313
-#EXTINF:-1 tvg-id="" tvg-name="• Nickelodeon HD" tvg-logo="http://img.slim.re/imagens/canais/Nick.png" group-title="CANAIS INFANTIS",• Nickelodeon HD
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" tvg-logo="http://img.slim.re/imagens/canais/Nick.png" group-title="CANAIS INFANTIS",Nickelodeon HD
 http://protec.2pds.top:80/892849957/011595894/204314
-#EXTINF:-1 tvg-id="" tvg-name="• Nickelodeon SD" tvg-logo="http://img.slim.re/imagens/canais/Nick.png" group-title="CANAIS INFANTIS",• Nickelodeon SD
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon SD" tvg-logo="http://img.slim.re/imagens/canais/Nick.png" group-title="CANAIS INFANTIS",Nickelodeon SD
 http://protec.2pds.top:80/892849957/011595894/204315
-#EXTINF:-1 tvg-id="" tvg-name="• Retrô Cartoon FHD" tvg-logo="https://od.lk/s/NzdfNTg5NzY5NTJf/retrocartoon.png" group-title="CANAIS INFANTIS",• Retrô Cartoon FHD
+#EXTINF:-1 tvg-id="" tvg-name="Retrô Cartoon FHD" tvg-logo="https://od.lk/s/NzdfNTg5NzY5NTJf/retrocartoon.png" group-title="CANAIS INFANTIS",Retrô Cartoon FHD
 http://protec.2pds.top:80/892849957/011595894/204316
-#EXTINF:-1 tvg-id="" tvg-name="• Retrô Cartoon HD" tvg-logo="https://od.lk/s/NzdfNTg5NzY5NTJf/retrocartoon.png" group-title="CANAIS INFANTIS",• Retrô Cartoon HD
+#EXTINF:-1 tvg-id="" tvg-name="Retrô Cartoon HD" tvg-logo="https://od.lk/s/NzdfNTg5NzY5NTJf/retrocartoon.png" group-title="CANAIS INFANTIS",Retrô Cartoon HD
 http://protec.2pds.top:80/892849957/011595894/204317
-#EXTINF:-1 tvg-id="" tvg-name="• Retrô Cartoon SD" tvg-logo="https://od.lk/s/NzdfNTg5NzY5NTJf/retrocartoon.png" group-title="CANAIS INFANTIS",• Retrô Cartoon SD
+#EXTINF:-1 tvg-id="" tvg-name="Retrô Cartoon SD" tvg-logo="https://od.lk/s/NzdfNTg5NzY5NTJf/retrocartoon.png" group-title="CANAIS INFANTIS",Retrô Cartoon SD
 http://protec.2pds.top:80/892849957/011595894/204318
-#EXTINF:-1 tvg-id="" tvg-name="• TV Kids Mais FHD" tvg-logo="http://img.slim.re/imagens/canais/KidsMais.png" group-title="CANAIS INFANTIS",• TV Kids Mais FHD
+#EXTINF:-1 tvg-id="" tvg-name="TV Kids Mais FHD" tvg-logo="http://img.slim.re/imagens/canais/KidsMais.png" group-title="CANAIS INFANTIS",TV Kids Mais FHD
 http://protec.2pds.top:80/892849957/011595894/204319
-#EXTINF:-1 tvg-id="" tvg-name="• TV Kids Mais HD" tvg-logo="http://img.slim.re/imagens/canais/KidsMais.png" group-title="CANAIS INFANTIS",• TV Kids Mais HD
+#EXTINF:-1 tvg-id="" tvg-name="TV Kids Mais HD" tvg-logo="http://img.slim.re/imagens/canais/KidsMais.png" group-title="CANAIS INFANTIS",TV Kids Mais HD
 http://protec.2pds.top:80/892849957/011595894/204320
-#EXTINF:-1 tvg-id="" tvg-name="• TV Kids Mais SD" tvg-logo="http://img.slim.re/imagens/canais/KidsMais.png" group-title="CANAIS INFANTIS",• TV Kids Mais SD
+#EXTINF:-1 tvg-id="" tvg-name="TV Kids Mais SD" tvg-logo="http://img.slim.re/imagens/canais/KidsMais.png" group-title="CANAIS INFANTIS",TV Kids Mais SD
 http://protec.2pds.top:80/892849957/011595894/204321
-#EXTINF:-1 tvg-id="" tvg-name="• TV Rá Tim Bum FHD" tvg-logo="http://img.slim.re/imagens/canais/TV-Ra-Tim-Bum.png" group-title="CANAIS INFANTIS",• TV Rá Tim Bum FHD
+#EXTINF:-1 tvg-id="" tvg-name="TV Rá Tim Bum FHD" tvg-logo="http://img.slim.re/imagens/canais/TV-Ra-Tim-Bum.png" group-title="CANAIS INFANTIS",TV Rá Tim Bum FHD
 http://protec.2pds.top:80/892849957/011595894/204322
-#EXTINF:-1 tvg-id="" tvg-name="• TV Rá Tim Bum HD" tvg-logo="http://img.slim.re/imagens/canais/TV-Ra-Tim-Bum.png" group-title="CANAIS INFANTIS",• TV Rá Tim Bum HD
+#EXTINF:-1 tvg-id="" tvg-name="TV Rá Tim Bum HD" tvg-logo="http://img.slim.re/imagens/canais/TV-Ra-Tim-Bum.png" group-title="CANAIS INFANTIS",TV Rá Tim Bum HD
 http://protec.2pds.top:80/892849957/011595894/204323
-#EXTINF:-1 tvg-id="" tvg-name="• TV Rá Tim Bum SD" tvg-logo="http://img.slim.re/imagens/canais/TV-Ra-Tim-Bum.png" group-title="CANAIS INFANTIS",• TV Rá Tim Bum SD
+#EXTINF:-1 tvg-id="" tvg-name="TV Rá Tim Bum SD" tvg-logo="http://img.slim.re/imagens/canais/TV-Ra-Tim-Bum.png" group-title="CANAIS INFANTIS",TV Rá Tim Bum SD
 http://protec.2pds.top:80/892849957/011595894/204324
-#EXTINF:-1 tvg-id="" tvg-name="• Tooncast FHD" tvg-logo="http://img.slim.re/imagens/canais/Tooncast.png" group-title="CANAIS INFANTIS",• Tooncast FHD
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast FHD" tvg-logo="http://img.slim.re/imagens/canais/Tooncast.png" group-title="CANAIS INFANTIS",Tooncast FHD
 http://protec.2pds.top:80/892849957/011595894/204325
-#EXTINF:-1 tvg-id="" tvg-name="• Tooncast HD" tvg-logo="http://img.slim.re/imagens/canais/Tooncast.png" group-title="CANAIS INFANTIS",• Tooncast HD
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast HD" tvg-logo="http://img.slim.re/imagens/canais/Tooncast.png" group-title="CANAIS INFANTIS",Tooncast HD
 http://protec.2pds.top:80/892849957/011595894/204326
-#EXTINF:-1 tvg-id="" tvg-name="• Tooncast SD" tvg-logo="http://img.slim.re/imagens/canais/Tooncast.png" group-title="CANAIS INFANTIS",• Tooncast SD
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast SD" tvg-logo="http://img.slim.re/imagens/canais/Tooncast.png" group-title="CANAIS INFANTIS",Tooncast SD
 http://protec.2pds.top:80/892849957/011595894/204327
-#EXTINF:-1 tvg-id="" tvg-name="• ZooMoo Kids FHD" tvg-logo="https://meuplayer.tv.br/lgs_btv/zoomoo1.png" group-title="CANAIS INFANTIS",• ZooMoo Kids FHD
+#EXTINF:-1 tvg-id="" tvg-name="ZooMoo Kids FHD" tvg-logo="https://meuplayer.tv.br/lgs_btv/zoomoo1.png" group-title="CANAIS INFANTIS",ZooMoo Kids FHD
 http://protec.2pds.top:80/892849957/011595894/204328
-#EXTINF:-1 tvg-id="" tvg-name="• ZooMoo Kids HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/zoomoo1.png" group-title="CANAIS INFANTIS",• ZooMoo Kids HD
+#EXTINF:-1 tvg-id="" tvg-name="ZooMoo Kids HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/zoomoo1.png" group-title="CANAIS INFANTIS",ZooMoo Kids HD
 http://protec.2pds.top:80/892849957/011595894/204329
-#EXTINF:-1 tvg-id="" tvg-name="• ZooMoo Kids SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/zoomoo1.png" group-title="CANAIS INFANTIS",• ZooMoo Kids SD
+#EXTINF:-1 tvg-id="" tvg-name="ZooMoo Kids SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/zoomoo1.png" group-title="CANAIS INFANTIS",ZooMoo Kids SD
 http://protec.2pds.top:80/892849957/011595894/204330
 -------------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="br#arte-1-hd" tvg-name="• Arte 1 FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4ODVf/arte1.png" group-title="CANAIS I VARIEDADES",• Arte 1 FHD
+#EXTINF:-1 tvg-id="br#arte-1-hd" tvg-name="Arte 1 FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4ODVf/arte1.png" group-title="CANAIS I VARIEDADES",Arte 1 FHD
 http://facilita.fun:80/811911153/414376531/9514871.ts
-#EXTINF:-1 tvg-id="br#arte-1-hd" tvg-name="• Arte 1 HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4ODVf/arte1.png" group-title="CANAIS I VARIEDADES",• Arte 1 HD
+#EXTINF:-1 tvg-id="br#arte-1-hd" tvg-name="Arte 1 HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4ODVf/arte1.png" group-title="CANAIS I VARIEDADES",Arte 1 HD
 http://facilita.fun:80/811911153/414376531/9514872.ts
-#EXTINF:-1 tvg-id="br#arte-1-hd" tvg-name="• Arte 1 SD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4ODVf/arte1.png" group-title="CANAIS I VARIEDADES",• Arte 1 SD
+#EXTINF:-1 tvg-id="br#arte-1-hd" tvg-name="Arte 1 SD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4ODVf/arte1.png" group-title="CANAIS I VARIEDADES",Arte 1 SD
 http://facilita.fun:80/811911153/414376531/9514873.ts
-#EXTINF:-1 tvg-id="Bis.br" tvg-name="• BIS FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjM5MTZf/bis.png" group-title="CANAIS I VARIEDADES",• BIS FHD
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjM5MTZf/bis.png" group-title="CANAIS I VARIEDADES",BIS FHD
 http://facilita.fun:80/811911153/414376531/9514874.ts
-#EXTINF:-1 tvg-id="Bis.br" tvg-name="• BIS HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM5MTZf/bis.png" group-title="CANAIS I VARIEDADES",• BIS HD
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM5MTZf/bis.png" group-title="CANAIS I VARIEDADES",BIS HD
 http://facilita.fun:80/811911153/414376531/9514875.ts
-#EXTINF:-1 tvg-id="Bis.br" tvg-name="• BIS SD" tvg-logo="https://od.lk/s/NzdfNTg1NjM5MTZf/bis.png" group-title="CANAIS I VARIEDADES",• BIS SD
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS SD" tvg-logo="https://od.lk/s/NzdfNTg1NjM5MTZf/bis.png" group-title="CANAIS I VARIEDADES",BIS SD
 http://facilita.fun:80/811911153/414376531/9514876.ts
-#EXTINF:-1 tvg-id="ComedyCentral.br" tvg-name="• Comedy Central FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjM5OTdf/comedycentral.png" group-title="CANAIS I VARIEDADES",• Comedy Central FHD
+#EXTINF:-1 tvg-id="ComedyCentral.br" tvg-name="Comedy Central FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjM5OTdf/comedycentral.png" group-title="CANAIS I VARIEDADES",Comedy Central FHD
 http://facilita.fun:80/811911153/414376531/9514877.ts
-#EXTINF:-1 tvg-id="ComedyCentral.br" tvg-name="• Comedy Central HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM5OTdf/comedycentral.png" group-title="CANAIS I VARIEDADES",• Comedy Central HD
+#EXTINF:-1 tvg-id="ComedyCentral.br" tvg-name="Comedy Central HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM5OTdf/comedycentral.png" group-title="CANAIS I VARIEDADES",Comedy Central HD
 http://facilita.fun:80/811911153/414376531/9514878.ts
-#EXTINF:-1 tvg-id="ComedyCentral.br" tvg-name="• Comedy Central SD" tvg-logo="https://od.lk/s/NzdfNTg1NjM5OTdf/comedycentral.png" group-title="CANAIS I VARIEDADES",• Comedy Central SD
+#EXTINF:-1 tvg-id="ComedyCentral.br" tvg-name="Comedy Central SD" tvg-logo="https://od.lk/s/NzdfNTg1NjM5OTdf/comedycentral.png" group-title="CANAIS I VARIEDADES",Comedy Central SD
 http://facilita.fun:80/811911153/414376531/9514879.ts
-#EXTINF:-1 tvg-id="Curta.br" tvg-name="• Curta FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMDZf/curta.png" group-title="CANAIS I VARIEDADES",• Curta FHD
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMDZf/curta.png" group-title="CANAIS I VARIEDADES",Curta FHD
 http://facilita.fun:80/811911153/414376531/9514880.ts
-#EXTINF:-1 tvg-id="Curta.br" tvg-name="• Curta HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMDZf/curta.png" group-title="CANAIS I VARIEDADES",• Curta HD
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMDZf/curta.png" group-title="CANAIS I VARIEDADES",Curta HD
 http://facilita.fun:80/811911153/414376531/9514881.ts
-#EXTINF:-1 tvg-id="Curta.br" tvg-name="• Curta SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMDZf/curta.png" group-title="CANAIS I VARIEDADES",• Curta SD
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMDZf/curta.png" group-title="CANAIS I VARIEDADES",Curta SD
 http://facilita.fun:80/811911153/414376531/9514882.ts
-#EXTINF:-1 tvg-id="E.br" tvg-name="• E! FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQwNDJf/e.png" group-title="CANAIS I VARIEDADES",• E! FHD
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQwNDJf/e.png" group-title="CANAIS I VARIEDADES",E! FHD
 http://facilita.fun:80/811911153/414376531/9514883.ts
-#EXTINF:-1 tvg-id="E.br" tvg-name="• E! HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQwNDJf/e.png" group-title="CANAIS I VARIEDADES",• E! HD
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQwNDJf/e.png" group-title="CANAIS I VARIEDADES",E! HD
 http://facilita.fun:80/811911153/414376531/9514884.ts
-#EXTINF:-1 tvg-id="E.br" tvg-name="• E! SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQwNDJf/e.png" group-title="CANAIS I VARIEDADES",• E! SD
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQwNDJf/e.png" group-title="CANAIS I VARIEDADES",E! SD
 http://facilita.fun:80/811911153/414376531/9514885.ts
-#EXTINF:-1 tvg-id="FoodNetwork.br" tvg-name="• Food Network FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQwOTFf/foodnetwork.png" group-title="CANAIS I VARIEDADES",• Food Network FHD
+#EXTINF:-1 tvg-id="FoodNetwork.br" tvg-name="Food Network FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQwOTFf/foodnetwork.png" group-title="CANAIS I VARIEDADES",Food Network FHD
 http://facilita.fun:80/811911153/414376531/9514889.ts
-#EXTINF:-1 tvg-id="FoodNetwork.br" tvg-name="• Food Network HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQwOTFf/foodnetwork.png" group-title="CANAIS I VARIEDADES",• Food Network HD
+#EXTINF:-1 tvg-id="FoodNetwork.br" tvg-name="Food Network HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQwOTFf/foodnetwork.png" group-title="CANAIS I VARIEDADES",Food Network HD
 http://facilita.fun:80/811911153/414376531/9514890.ts
-#EXTINF:-1 tvg-id="FoodNetwork.br" tvg-name="• Food Network SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQwOTFf/foodnetwork.png" group-title="CANAIS I VARIEDADES",• Food Network SD
+#EXTINF:-1 tvg-id="FoodNetwork.br" tvg-name="Food Network SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQwOTFf/foodnetwork.png" group-title="CANAIS I VARIEDADES",Food Network SD
 http://facilita.fun:80/811911153/414376531/9514891.ts
-#EXTINF:-1 tvg-id="GNT.br" tvg-name="• GNT FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMzhf/gnt.png" group-title="CANAIS I VARIEDADES",• GNT FHD
+#EXTINF:-1 tvg-id="GNT.br" tvg-name="GNT FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMzhf/gnt.png" group-title="CANAIS I VARIEDADES",GNT FHD
 http://facilita.fun:80/811911153/414376531/9514892.ts
-#EXTINF:-1 tvg-id="GNT.br" tvg-name="• GNT HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMzhf/gnt.png" group-title="CANAIS I VARIEDADES",• GNT HD
+#EXTINF:-1 tvg-id="GNT.br" tvg-name="GNT HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMzhf/gnt.png" group-title="CANAIS I VARIEDADES",GNT HD
 http://facilita.fun:80/811911153/414376531/9514893.ts
-#EXTINF:-1 tvg-id="GNT.br" tvg-name="• GNT SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMzhf/gnt.png" group-title="CANAIS I VARIEDADES",• GNT SD
+#EXTINF:-1 tvg-id="GNT.br" tvg-name="GNT SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMzhf/gnt.png" group-title="CANAIS I VARIEDADES",GNT SD
 http://facilita.fun:80/811911153/414376531/9514894.ts
-#EXTINF:-1 tvg-id="TravelBoxBrazil.br" tvg-name="• Travel Box Brazil FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ2MzNf/travelboxbrazil1.png" group-title="CANAIS I VARIEDADES",• Travel Box Brazil FHD
+#EXTINF:-1 tvg-id="TravelBoxBrazil.br" tvg-name="Travel Box Brazil FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ2MzNf/travelboxbrazil1.png" group-title="CANAIS I VARIEDADES",Travel Box Brazil FHD
 http://facilita.fun:80/811911153/414376531/9514925.ts
-#EXTINF:-1 tvg-id="TravelBoxBrazil.br" tvg-name="• Travel Box Brazil HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ2MzNf/travelboxbrazil1.png" group-title="CANAIS I VARIEDADES",• Travel Box Brazil HD
+#EXTINF:-1 tvg-id="TravelBoxBrazil.br" tvg-name="Travel Box Brazil HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ2MzNf/travelboxbrazil1.png" group-title="CANAIS I VARIEDADES",Travel Box Brazil HD
 http://facilita.fun:80/811911153/414376531/9514926.ts
-#EXTINF:-1 tvg-id="TravelBoxBrazil.br" tvg-name="• Travel Box Brazil SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ2MzNf/travelboxbrazil1.png" group-title="CANAIS I VARIEDADES",• Travel Box Brazil SD
+#EXTINF:-1 tvg-id="TravelBoxBrazil.br" tvg-name="Travel Box Brazil SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ2MzNf/travelboxbrazil1.png" group-title="CANAIS I VARIEDADES",Travel Box Brazil SD
 http://facilita.fun:80/811911153/414376531/9514927.ts
-#EXTINF:-1 tvg-id="br#viva-hd" tvg-name="• Viva FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NDVf/canalviva.png" group-title="CANAIS I VARIEDADES",• Viva FHD
+#EXTINF:-1 tvg-id="br#viva-hd" tvg-name="Viva FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NDVf/canalviva.png" group-title="CANAIS I VARIEDADES",Viva FHD
 http://facilita.fun:80/811911153/414376531/9514928.ts
-#EXTINF:-1 tvg-id="br#viva-hd" tvg-name="• Viva HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NDVf/canalviva.png" group-title="CANAIS I VARIEDADES",• Viva HD
+#EXTINF:-1 tvg-id="br#viva-hd" tvg-name="Viva HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NDVf/canalviva.png" group-title="CANAIS I VARIEDADES",Viva HD
 http://facilita.fun:80/811911153/414376531/9514929.ts
-#EXTINF:-1 tvg-id="br#viva-hd" tvg-name="• Viva SD" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NDVf/canalviva.png" group-title="CANAIS I VARIEDADES",• Viva SD
+#EXTINF:-1 tvg-id="br#viva-hd" tvg-name="Viva SD" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NDVf/canalviva.png" group-title="CANAIS I VARIEDADES",Viva SD
 http://facilita.fun:80/811911153/414376531/9514930.ts
 -------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="" tvg-name="• Amazon Prime Video 1 HD" tvg-logo="http://img.slim.re/imagens/canais/Prime-Video.png" group-title="CANAIS I PPV ESPORTES",• Amazon Prime Video 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 1 HD" tvg-logo="http://img.slim.re/imagens/canais/Prime-Video.png" group-title="CANAIS I PPV ESPORTES",Amazon Prime Video 1 HD
 http://facilita.fun:80/811911153/414376531/9514931.ts
-#EXTINF:-1 tvg-id="" tvg-name="• Amazon Prime Video 2 HD" tvg-logo="http://img.slim.re/imagens/canais/Prime-Video.png" group-title="CANAIS I PPV ESPORTES",• Amazon Prime Video 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 2 HD" tvg-logo="http://img.slim.re/imagens/canais/Prime-Video.png" group-title="CANAIS I PPV ESPORTES",Amazon Prime Video 2 HD
 http://facilita.fun:80/811911153/414376531/9514932.ts
-#EXTINF:-1 tvg-id="" tvg-name="• Amazon Prime Video 3 HD" tvg-logo="http://img.slim.re/imagens/canais/Prime-Video.png" group-title="CANAIS I PPV ESPORTES",• Amazon Prime Video 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 3 HD" tvg-logo="http://img.slim.re/imagens/canais/Prime-Video.png" group-title="CANAIS I PPV ESPORTES",Amazon Prime Video 3 HD
 http://facilita.fun:80/811911153/414376531/9514933.ts
-#EXTINF:-1 tvg-id="" tvg-name="• Amazon Prime Video 4 HD" tvg-logo="http://img.slim.re/imagens/canais/Prime-Video.png" group-title="CANAIS I PPV ESPORTES",• Amazon Prime Video 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 4 HD" tvg-logo="http://img.slim.re/imagens/canais/Prime-Video.png" group-title="CANAIS I PPV ESPORTES",Amazon Prime Video 4 HD
 http://facilita.fun:80/811911153/414376531/9514934.ts
-#EXTINF:-1 tvg-id="" tvg-name="•   TV Max 1 HD" tvg-logo="http://img.slim.re/imagens/canais/BRTV-Max.png" group-title="CANAIS I PPV ESPORTES",•   TV Max 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="  TV Max 1 HD" tvg-logo="http://img.slim.re/imagens/canais/BRTV-Max.png" group-title="CANAIS I PPV ESPORTES",  TV Max 1 HD
 http://facilita.fun:80/811911153/414376531/9514935.ts
-#EXTINF:-1 tvg-id="" tvg-name="•   TV Max 2 HD" tvg-logo="http://img.slim.re/imagens/canais/BRTV-Max.png" group-title="CANAIS I PPV ESPORTES",•   TV Max 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="  TV Max 2 HD" tvg-logo="http://img.slim.re/imagens/canais/BRTV-Max.png" group-title="CANAIS I PPV ESPORTES",  TV Max 2 HD
 http://facilita.fun:80/811911153/414376531/9514936.ts
-#EXTINF:-1 tvg-id="" tvg-name="•   TV Max 3 HD" tvg-logo="http://img.slim.re/imagens/canais/BRTV-Max.png" group-title="CANAIS I PPV ESPORTES",•   TV Max 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="  TV Max 3 HD" tvg-logo="http://img.slim.re/imagens/canais/BRTV-Max.png" group-title="CANAIS I PPV ESPORTES",  TV Max 3 HD
 http://facilita.fun:80/811911153/414376531/9514937.ts
-#EXTINF:-1 tvg-id="" tvg-name="• Paramount Plus 1 HD" tvg-logo="http://img.slim.re/imagens/canais/ParamountPlus.png" group-title="CANAIS I PPV ESPORTES",• Paramount Plus 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Plus 1 HD" tvg-logo="http://img.slim.re/imagens/canais/ParamountPlus.png" group-title="CANAIS I PPV ESPORTES",Paramount Plus 1 HD
 http://facilita.fun:80/811911153/414376531/9514974.ts
-#EXTINF:-1 tvg-id="" tvg-name="• Paramount Plus 2 HD" tvg-logo="http://img.slim.re/imagens/canais/ParamountPlus.png" group-title="CANAIS I PPV ESPORTES",• Paramount Plus 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Plus 2 HD" tvg-logo="http://img.slim.re/imagens/canais/ParamountPlus.png" group-title="CANAIS I PPV ESPORTES",Paramount Plus 2 HD
 http://facilita.fun:80/811911153/414376531/9514975.ts
-#EXTINF:-1 tvg-id="" tvg-name="• Paramount Plus 3 HD" tvg-logo="http://img.slim.re/imagens/canais/ParamountPlus.png" group-title="CANAIS I PPV ESPORTES",• Paramount Plus 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Plus 3 HD" tvg-logo="http://img.slim.re/imagens/canais/ParamountPlus.png" group-title="CANAIS I PPV ESPORTES",Paramount Plus 3 HD
 http://facilita.fun:80/811911153/414376531/9514976.ts
-#EXTINF:-1 tvg-id="" tvg-name="• Paramount Plus 4 HD" tvg-logo="http://img.slim.re/imagens/canais/ParamountPlus.png" group-title="CANAIS I PPV ESPORTES",• Paramount Plus 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Plus 4 HD" tvg-logo="http://img.slim.re/imagens/canais/ParamountPlus.png" group-title="CANAIS I PPV ESPORTES",Paramount Plus 4 HD
 http://facilita.fun:80/811911153/414376531/9514977.ts
-#EXTINF:-1 tvg-id="" tvg-name="• UFC Fight Pass 1 HD" tvg-logo="http://img.slim.re/imagens/canais/UFC.png" group-title="CANAIS I PPV ESPORTES",• UFC Fight Pass 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass 1 HD" tvg-logo="http://img.slim.re/imagens/canais/UFC.png" group-title="CANAIS I PPV ESPORTES",UFC Fight Pass 1 HD
 http://facilita.fun:80/811911153/414376531/9514978.ts
-#EXTINF:-1 tvg-id="" tvg-name="• UFC Fight Pass 2 HD" tvg-logo="http://img.slim.re/imagens/canais/UFC.png" group-title="CANAIS I PPV ESPORTES",• UFC Fight Pass 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass 2 HD" tvg-logo="http://img.slim.re/imagens/canais/UFC.png" group-title="CANAIS I PPV ESPORTES",UFC Fight Pass 2 HD
 http://facilita.fun:80/811911153/414376531/9514979.ts
--------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="IdealTV.br" tvg-name="• Ideal TV HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxOTlf/idealtv.png" group-title="CANAIS I RELIGIOSOS",• Ideal TV HD
-http://facilita.fun:80/811911153/414376531/9514995.ts
-#EXTINF:-1 tvg-id="IdealTV.br" tvg-name="• Ideal TV SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxOTlf/idealtv.png" group-title="CANAIS I RELIGIOSOS",• Ideal TV SD
-http://facilita.fun:80/811911153/414376531/9514996.ts
-#EXTINF:-1 tvg-id="RedeVida.br" tvg-name="• Rede Vida HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0ODhf/redevida.png" group-title="CANAIS I RELIGIOSOS",• Rede Vida HD
-http://facilita.fun:80/811911153/414376531/9515009.ts
-#EXTINF:-1 tvg-id="RedeVida.br" tvg-name="• Rede Vida SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0ODhf/redevida.png" group-title="CANAIS I RELIGIOSOS",• Rede Vida SD
-http://facilita.fun:80/811911153/414376531/9515010.ts
-#EXTINF:-1 tvg-id="" tvg-name="• TV Evangelizar HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ2NjNf/tvevangelizar.png" group-title="CANAIS I RELIGIOSOS",• TV Evangelizar HD
-http://facilita.fun:80/811911153/414376531/9515013.ts
-#EXTINF:-1 tvg-id="" tvg-name="• TV Evangelizar SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ2NjNf/tvevangelizar.png" group-title="CANAIS I RELIGIOSOS",• TV Evangelizar SD
-http://facilita.fun:80/811911153/414376531/9515014.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/FoPnWx0.png" group-title="CANAIS I RELIGIOSOS",TV Evangelizar 
-https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Evangelizar" tvg-logo="http://techzzi.site/logos/religiosos/tvevangelizar.png" group-title="CANAIS I RELIGIOSOS",TV Evangelizar
-http://srv1.cc:80/664086854/131189925/6441978.ts
--------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="br#premiere-2" tvg-name="• Premiere 2 FHD" tvg-logo="http://img.slim.re/imagens/canais/Premiere.png" group-title="CANAIS I PREMIERE",• Premiere 2 FHD
-http://facilita.fun:80/811911153/414376531/9515021.ts
-#EXTINF:-1 tvg-id="br#premiere-2" tvg-name="• Premiere 2 HD" tvg-logo="http://img.slim.re/imagens/canais/Premiere.png" group-title="CANAIS I PREMIERE",• Premiere 2 HD
-http://facilita.fun:80/811911153/414376531/9515022.ts
-#EXTINF:-1 tvg-id="br#premiere-2" tvg-name="• Premiere 2 SD" tvg-logo="http://img.slim.re/imagens/canais/Premiere.png" group-title="CANAIS I PREMIERE",• Premiere 2 SD
-http://facilita.fun:80/811911153/414376531/9515023.ts
-#EXTINF:-1 tvg-id="br#premiere-3" tvg-name="• Premiere 3 FHD" tvg-logo="http://img.slim.re/imagens/canais/Premiere.png" group-title="CANAIS I PREMIERE",• Premiere 3 FHD
-http://facilita.fun:80/811911153/414376531/9515024.ts
-#EXTINF:-1 tvg-id="br#premiere-3" tvg-name="• Premiere 3 HD" tvg-logo="http://img.slim.re/imagens/canais/Premiere.png" group-title="CANAIS I PREMIERE",• Premiere 3 HD
-http://facilita.fun:80/811911153/414376531/9515025.ts
-#EXTINF:-1 tvg-id="br#premiere-3" tvg-name="• Premiere 3 SD" tvg-logo="http://img.slim.re/imagens/canais/Premiere.png" group-title="CANAIS I PREMIERE",• Premiere 3 SD
-http://facilita.fun:80/811911153/414376531/9515026.ts
-#EXTINF:-1 tvg-id="br#premiere-4" tvg-name="• Premiere 4 HD" tvg-logo="http://img.slim.re/imagens/canais/Premiere.png" group-title="CANAIS I PREMIERE",• Premiere 4 HD
-http://facilita.fun:80/811911153/414376531/9515027.ts
-#EXTINF:-1 tvg-id="br#premiere-4" tvg-name="• Premiere 4 SD" tvg-logo="http://img.slim.re/imagens/canais/Premiere.png" group-title="CANAIS I PREMIERE",• Premiere 4 SD
-http://facilita.fun:80/811911153/414376531/9515028.ts
-#EXTINF:-1 tvg-id="br#premiere-5-brazil" tvg-name="• Premiere 5 HD" tvg-logo="http://img.slim.re/imagens/canais/Premiere.png" group-title="CANAIS I PREMIERE",• Premiere 5 HD
-http://facilita.fun:80/811911153/414376531/9515029.ts
-#EXTINF:-1 tvg-id="br#premiere-5-brazil" tvg-name="• Premiere 5 SD" tvg-logo="http://img.slim.re/imagens/canais/Premiere.png" group-title="CANAIS I PREMIERE",• Premiere 5 SD
-http://facilita.fun:80/811911153/414376531/9515030.ts
-#EXTINF:-1 tvg-id="br#premiere-6-hd" tvg-name="• Premiere 6 HD" tvg-logo="http://img.slim.re/imagens/canais/Premiere.png" group-title="CANAIS I PREMIERE",• Premiere 6 HD
-http://facilita.fun:80/811911153/414376531/9515031.ts
-#EXTINF:-1 tvg-id="br#premiere-6-hd" tvg-name="• Premiere 6 SD" tvg-logo="http://img.slim.re/imagens/canais/Premiere.png" group-title="CANAIS I PREMIERE",• Premiere 6 SD
-http://facilita.fun:80/811911153/414376531/9515032.ts
-#EXTINF:-1 tvg-id="br#premiere-7" tvg-name="• Premiere 7 HD" tvg-logo="http://img.slim.re/imagens/canais/Premiere.png" group-title="CANAIS I PREMIERE",• Premiere 7 HD
-http://facilita.fun:80/811911153/414376531/9515033.ts
-#EXTINF:-1 tvg-id="br#premiere-7" tvg-name="• Premiere 7 SD" tvg-logo="http://img.slim.re/imagens/canais/Premiere.png" group-title="CANAIS I PREMIERE",• Premiere 7 SD
-http://facilita.fun:80/811911153/414376531/9515034.ts
-#EXTINF:-1 tvg-id="br#premiere-8" tvg-name="• Premiere 8 HD" tvg-logo="http://img.slim.re/imagens/canais/Premiere.png" group-title="CANAIS I PREMIERE",• Premiere 8 HD
-http://facilita.fun:80/811911153/414376531/9515035.ts
-#EXTINF:-1 tvg-id="br#premiere-8" tvg-name="• Premiere 8 SD" tvg-logo="http://img.slim.re/imagens/canais/Premiere.png" group-title="CANAIS I PREMIERE",• Premiere 8 SD
-http://facilita.fun:80/811911153/414376531/9515036.ts
-#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="• Premiere Clubes FHD" tvg-logo="http://img.slim.re/imagens/canais/Premiere.png" group-title="CANAIS I PREMIERE",• Premiere Clubes FHD
-http://facilita.fun:80/811911153/414376531/9515037.ts
-#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="• Premiere Clubes HD" tvg-logo="http://img.slim.re/imagens/canais/Premiere.png" group-title="CANAIS I PREMIERE",• Premiere Clubes HD
-http://facilita.fun:80/811911153/414376531/9515038.ts
-#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="• Premiere Clubes SD" tvg-logo="http://img.slim.re/imagens/canais/Premiere.png" group-title="CANAIS I PREMIERE",• Premiere Clubes SD
-http://facilita.fun:80/811911153/414376531/9515039.ts
---------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="br#bandsports-hd" tvg-name="• Band Sports FHD" tvg-logo="http://img.slim.re/imagens/canais/Band-Sports.png" group-title="CANAIS I ESPORTES",• Band Sports FHD
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 1 HD" tvg-logo="http://img.slim.re/imagens/canais/Prime-Video.png" group-title="CANAIS I PPV ESPORTES",Amazon Prime Video 1 HD
+http://protec.2pds.top:80/892849957/011595894/203943
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 2 HD" tvg-logo="http://img.slim.re/imagens/canais/Prime-Video.png" group-title="CANAIS I PPV ESPORTES",Amazon Prime Video 2 HD
+http://protec.2pds.top:80/892849957/011595894/203944
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 3 HD" tvg-logo="http://img.slim.re/imagens/canais/Prime-Video.png" group-title="CANAIS I PPV ESPORTES",Amazon Prime Video 3 HD
+http://protec.2pds.top:80/892849957/011595894/203945
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 4 HD" tvg-logo="http://img.slim.re/imagens/canais/Prime-Video.png" group-title="CANAIS I PPV ESPORTES",Amazon Prime Video 4 HD
+http://protec.2pds.top:80/892849957/011595894/203946
+#EXTINF:-1 tvg-id="" tvg-name="  TV Max 1 HD" tvg-logo="http://img.slim.re/imagens/canais/BRTV-Max.png" group-title="CANAIS I PPV ESPORTES",TV Max 1 HD
+http://protec.2pds.top:80/892849957/011595894/203947
+#EXTINF:-1 tvg-id="" tvg-name="  TV Max 2 HD" tvg-logo="http://img.slim.re/imagens/canais/BRTV-Max.png" group-title="CANAIS I PPV ESPORTES",TV Max 2 HD
+http://protec.2pds.top:80/892849957/011595894/203948
+#EXTINF:-1 tvg-id="" tvg-name="  TV Max 3 HD" tvg-logo="http://img.slim.re/imagens/canais/BRTV-Max.png" group-title="CANAIS I PPV ESPORTES",TV Max 3 HD
+http://protec.2pds.top:80/892849957/011595894/203949
+---------------------------CANAIS I ESPORTES----------------------------------------------------------
+#EXTINF:-1 tvg-id="br#bandsports-hd" tvg-name="Band Sports FHD" tvg-logo="http://img.slim.re/imagens/canais/Band-Sports.png" group-title="CANAIS I ESPORTES",Band Sports FHD
 http://facilita.fun:80/811911153/414376531/9515040.ts
-#EXTINF:-1 tvg-id="br#bandsports-hd" tvg-name="• Band Sports HD" tvg-logo="http://img.slim.re/imagens/canais/Band-Sports.png" group-title="CANAIS I ESPORTES",• Band Sports HD
+#EXTINF:-1 tvg-id="br#bandsports-hd" tvg-name="Band Sports HD" tvg-logo="http://img.slim.re/imagens/canais/Band-Sports.png" group-title="CANAIS I ESPORTES",Band Sports HD
 http://facilita.fun:80/811911153/414376531/9515041.ts
-#EXTINF:-1 tvg-id="br#bandsports-hd" tvg-name="• Band Sports SD" tvg-logo="http://img.slim.re/imagens/canais/Band-Sports.png" group-title="CANAIS I ESPORTES",• Band Sports SD
+#EXTINF:-1 tvg-id="br#bandsports-hd" tvg-name="Band Sports SD" tvg-logo="http://img.slim.re/imagens/canais/Band-Sports.png" group-title="CANAIS I ESPORTES",Band Sports SD
 http://facilita.fun:80/811911153/414376531/9515042.ts
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="• Combate FHD" tvg-logo="http://img.slim.re/imagens/canais/Combate.png" group-title="CANAIS I ESPORTES",• Combate FHD
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate FHD" tvg-logo="http://img.slim.re/imagens/canais/Combate.png" group-title="CANAIS I ESPORTES",Combate FHD
 http://facilita.fun:80/811911153/414376531/9515043.ts
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="• Combate HD" tvg-logo="http://img.slim.re/imagens/canais/Combate.png" group-title="CANAIS I ESPORTES",• Combate HD
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate HD" tvg-logo="http://img.slim.re/imagens/canais/Combate.png" group-title="CANAIS I ESPORTES",Combate HD
 http://facilita.fun:80/811911153/414376531/9515044.ts
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="• Combate SD" tvg-logo="http://img.slim.re/imagens/canais/Combate.png" group-title="CANAIS I ESPORTES",• Combate SD
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate SD" tvg-logo="http://img.slim.re/imagens/canais/Combate.png" group-title="CANAIS I ESPORTES",Combate SD
 http://facilita.fun:80/811911153/414376531/9515045.ts
 #EXTINF:-1 tvg-id="" tvg-name="COMBATE SD" tvg-logo="https://techzzi.site/logos/esportesppv/combate.png" group-title="CANAIS I ESPORTES",COMBATE SD
 http://srv1.cc:80/664086854/131189925/4779910.ts
-#EXTINF:-1 tvg-id="CanalOff.br" tvg-name="• OFF FHD" tvg-logo="http://img.slim.re/imagens/canais/OFF.png" group-title="CANAIS I ESPORTES",• OFF FHD
+#EXTINF:-1 tvg-id="CanalOff.br" tvg-name="OFF FHD" tvg-logo="http://img.slim.re/imagens/canais/OFF.png" group-title="CANAIS I ESPORTES",OFF FHD
 http://facilita.fun:80/811911153/414376531/9515046.ts
-#EXTINF:-1 tvg-id="CanalOff.br" tvg-name="• OFF HD" tvg-logo="http://img.slim.re/imagens/canais/OFF.png" group-title="CANAIS I ESPORTES",• OFF HD
+#EXTINF:-1 tvg-id="CanalOff.br" tvg-name="OFF HD" tvg-logo="http://img.slim.re/imagens/canais/OFF.png" group-title="CANAIS I ESPORTES",OFF HD
 http://facilita.fun:80/811911153/414376531/9515047.ts
-#EXTINF:-1 tvg-id="CanalOff.br" tvg-name="• OFF SD" tvg-logo="http://img.slim.re/imagens/canais/OFF.png" group-title="CANAIS I ESPORTES",• OFF SD
+#EXTINF:-1 tvg-id="CanalOff.br" tvg-name="OFF SD" tvg-logo="http://img.slim.re/imagens/canais/OFF.png" group-title="CANAIS I ESPORTES",OFF SD
 http://facilita.fun:80/811911153/414376531/9515048.ts
-#EXTINF:-1 tvg-id="br#sportv-hd" tvg-name="• SporTV 1 FHD" tvg-logo="http://img.slim.re/imagens/canais/Sportv.png" group-title="CANAIS I ESPORTES",• SporTV 1 FHD
+#EXTINF:-1 tvg-id="br#sportv-hd" tvg-name="SporTV 1 FHD" tvg-logo="http://img.slim.re/imagens/canais/Sportv.png" group-title="CANAIS I ESPORTES",SporTV 1 FHD
 http://facilita.fun:80/811911153/414376531/9515078.ts
 #EXTINF:-1 tvg-id="br#sportv-hd" tvg-name="SPORTV SD" tvg-logo="https://techzzi.site/logos/esportes/sportv.png" group-title="CANAIS I ESPORTES",SPORTV SD
 http://srv1.cc:80/664086854/131189925/4779891.ts
@@ -321,127 +281,127 @@ http://srv1.cc:80/664086854/131189925/4779917.ts
 http://srv1.cc:80/664086854/131189925/4779914.ts
 #EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS" tvg-logo="https://techzzi.site/logos/esportesppv/ufcfight.png" group-title="CANAIS I ESPORTES",UFC FIGHT PASS
 http://srv1.cc:80/664086854/131189925/5078744.ts
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="• ESPN FHD" tvg-logo="http://img.slim.re/imagens/canais/ESPN.png" group-title="CANAIS I ESPORTES",• ESPN FHD
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN FHD" tvg-logo="http://img.slim.re/imagens/canais/ESPN.png" group-title="CANAIS I ESPORTES",ESPN FHD
 http://facilita.fun:80/811911153/414376531/9515075.ts
 #EXTINF:-1 tvg-id="br#espn-hd" tvg-name="ESPN HD" tvg-logo="https://techzzi.site/logos/esportes/espn.png" group-title="CANAIS I ESPORTES",ESPN HD
 http://srv1.cc:80/664086854/131189925/4794555.ts
 #EXTINF:-1 tvg-id="br#espn-hd" tvg-name="ESPN SD" tvg-logo="https://techzzi.site/logos/esportes/espn.png" group-title="CANAIS I ESPORTES,ESPN SD
 http://srv1.cc:80/664086854/131189925/4794556.ts
-#EXTINF:-1 tvg-id="ESPN2.br" tvg-name="• ESPN 2 FHD" tvg-logo="http://img.slim.re/imagens/canais/ESPN.png" group-title="CANAIS I ESPORTES",• ESPN 2 FHD
+#EXTINF:-1 tvg-id="ESPN2.br" tvg-name="ESPN 2 FHD" tvg-logo="http://img.slim.re/imagens/canais/ESPN.png" group-title="CANAIS I ESPORTES",ESPN 2 FHD
 http://facilita.fun:80/811911153/414376531/9515060.ts
-#EXTINF:-1 tvg-id="ESPN2.br" tvg-name="• ESPN 2 HD" tvg-logo="http://img.slim.re/imagens/canais/ESPN.png" group-title="CANAIS I ESPORTES",• ESPN 2 HD
+#EXTINF:-1 tvg-id="ESPN2.br" tvg-name="ESPN 2 HD" tvg-logo="http://img.slim.re/imagens/canais/ESPN.png" group-title="CANAIS I ESPORTES",ESPN 2 HD
 http://facilita.fun:80/811911153/414376531/9515061.ts
 #EXTINF:-1 tvg-id="ESPN2.br" tvg-name="ESPN 2 SD" tvg-logo="https://techzzi.site/logos/esportes/espn2.png" group-title="CANAIS I ESPORTES",ESPN 2 SD
 http://srv1.cc:80/664086854/131189925/4794546.ts
-#EXTINF:-1 tvg-id="ESPN3.br" tvg-name="• ESPN 3 FHD" tvg-logo="http://img.slim.re/imagens/canais/ESPN.png" group-title="CANAIS I ESPORTES",• ESPN 3 FHD
+#EXTINF:-1 tvg-id="ESPN3.br" tvg-name="ESPN 3 FHD" tvg-logo="http://img.slim.re/imagens/canais/ESPN.png" group-title="CANAIS I ESPORTES",ESPN 3 FHD
 http://facilita.fun:80/811911153/414376531/9515063.ts
-#EXTINF:-1 tvg-id="ESPN3.br" tvg-name="• ESPN 3 HD" tvg-logo="http://img.slim.re/imagens/canais/ESPN.png" group-title="CANAIS I ESPORTES",• ESPN 3 HD
+#EXTINF:-1 tvg-id="ESPN3.br" tvg-name="ESPN 3 HD" tvg-logo="http://img.slim.re/imagens/canais/ESPN.png" group-title="CANAIS I ESPORTES",ESPN 3 HD
 http://facilita.fun:80/811911153/414376531/9515064.ts
 #EXTINF:-1 tvg-id="ESPN3.br" tvg-name="ESPN 3 SD" tvg-logo="https://techzzi.site/logos/esportes/espn3.png" group-title="CANAIS I ESPORTES",ESPN 3 SD
 http://srv1.cc:80/664086854/131189925/4794549.ts
-#EXTINF:-1 tvg-id="ESPN4.br" tvg-name="• ESPN 4 FHD" tvg-logo="http://img.slim.re/imagens/canais/ESPN.png" group-title="CANAIS I ESPORTES",• ESPN 4 FHD
+#EXTINF:-1 tvg-id="ESPN4.br" tvg-name="ESPN 4 FHD" tvg-logo="http://img.slim.re/imagens/canais/ESPN.png" group-title="CANAIS I ESPORTES",ESPN 4 FHD
 http://facilita.fun:80/811911153/414376531/9515066.ts
-#EXTINF:-1 tvg-id="ESPN4.br" tvg-name="• ESPN 4 HD" tvg-logo="http://img.slim.re/imagens/canais/ESPN.png" group-title="CANAIS I ESPORTES",• ESPN 4 HD
+#EXTINF:-1 tvg-id="ESPN4.br" tvg-name="ESPN 4 HD" tvg-logo="http://img.slim.re/imagens/canais/ESPN.png" group-title="CANAIS I ESPORTES",ESPN 4 HD
 http://facilita.fun:80/811911153/414376531/9515067.ts
 #EXTINF:-1 tvg-id="ESPN4.br" tvg-name="ESPN 4 SD" tvg-logo="https://techzzi.site/logos/esportes/espn4.png" group-title="CANAIS I ESPORTES",ESPN 4 SD
 http://srv1.cc:80/664086854/131189925/4794552.ts
-#EXTINF:-1 tvg-id="ESPN5.br" tvg-name="• ESPN 5 FHD" tvg-logo="http://img.slim.re/imagens/canais/ESPN.png" group-title="CANAIS I ESPORTES",• ESPN 5 FHD
+#EXTINF:-1 tvg-id="ESPN5.br" tvg-name="ESPN 5 FHD" tvg-logo="http://img.slim.re/imagens/canais/ESPN.png" group-title="CANAIS I ESPORTES",ESPN 5 FHD
 http://facilita.fun:80/811911153/414376531/9515069.ts
 #EXTINF:-1 tvg-id="ESPN5.br" tvg-name="ESPN 5 HD" tvg-logo="https://techzzi.site/logos/esportes/espn%2b.png" group-title="CANAIS I ESPORTES",ESPN 5 HD
 http://srv1.cc:80/664086854/131189925/5721732.ts
 #EXTINF:-1 tvg-id="br#espn-1" tvg-name="ESPN EXTRA HD" tvg-logo="https://techzzi.site/logos/esportes/espnextra.png" group-title="CANAIS I ESPORTES",ESPN EXTRA HD
 http://srv1.cc:80/664086854/131189925/4794553.ts
-#EXTINF:-1 tvg-id="ESPN6.br" tvg-name="• ESPN 6 FHD" tvg-logo="http://img.slim.re/imagens/canais/ESPN.png" group-title="CANAIS I ESPORTES",• ESPN 6 FHD
+#EXTINF:-1 tvg-id="ESPN6.br" tvg-name="ESPN 6 FHD" tvg-logo="http://img.slim.re/imagens/canais/ESPN.png" group-title="CANAIS I ESPORTES",ESPN 6 FHD
 http://facilita.fun:80/811911153/414376531/9515072.ts
-#EXTINF:-1 tvg-id="ESPN6.br" tvg-name="• ESPN 6 HD" tvg-logo="http://img.slim.re/imagens/canais/ESPN.png" group-title="CANAIS I ESPORTES",• ESPN 6 HD
+#EXTINF:-1 tvg-id="ESPN6.br" tvg-name="ESPN 6 HD" tvg-logo="http://img.slim.re/imagens/canais/ESPN.png" group-title="CANAIS I ESPORTES",ESPN 6 HD
 http://facilita.fun:80/811911153/414376531/9515073.ts
---------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="" tvg-name="• HBO 2 FHD" tvg-logo="http://img.slim.re/imagens/canais/HBO-2.png" group-title="CANAIS REDE HBO",• HBO 2 FHD
+-------------------------------------CANAIS REDE HBO-----------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 FHD" tvg-logo="http://img.slim.re/imagens/canais/HBO-2.png" group-title="CANAIS REDE HBO",HBO 2 FHD
 http://protec.2pds.top:80/892849957/011595894/204059
-#EXTINF:-1 tvg-id="" tvg-name="• HBO 2 HD" tvg-logo="http://img.slim.re/imagens/canais/HBO-2.png" group-title="CANAIS REDE HBO",• HBO 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="http://img.slim.re/imagens/canais/HBO-2.png" group-title="CANAIS REDE HBO",HBO 2 HD
 http://protec.2pds.top:80/892849957/011595894/204060
-#EXTINF:-1 tvg-id="" tvg-name="• HBO 2 SD" tvg-logo="http://img.slim.re/imagens/canais/HBO-2.png" group-title="CANAIS REDE HBO",• HBO 2 SD
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 SD" tvg-logo="http://img.slim.re/imagens/canais/HBO-2.png" group-title="CANAIS REDE HBO",HBO 2 SD
 http://protec.2pds.top:80/892849957/011595894/204061
-#EXTINF:-1 tvg-id="" tvg-name="• HBO FHD" tvg-logo="http://img.slim.re/imagens/canais/HBO1.png" group-title="CANAIS REDE HBO",• HBO FHD
+#EXTINF:-1 tvg-id="" tvg-name="HBO FHD" tvg-logo="http://img.slim.re/imagens/canais/HBO1.png" group-title="CANAIS REDE HBO",HBO FHD
 http://protec.2pds.top:80/892849957/011595894/204062
-#EXTINF:-1 tvg-id="" tvg-name="• HBO Family FHD" tvg-logo="http://img.slim.re/imagens/canais/HBO-Family.png" group-title="CANAIS REDE HBO",• HBO Family FHD
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family FHD" tvg-logo="http://img.slim.re/imagens/canais/HBO-Family.png" group-title="CANAIS REDE HBO",HBO Family FHD
 http://protec.2pds.top:80/892849957/011595894/204063
-#EXTINF:-1 tvg-id="" tvg-name="• HBO Family HD" tvg-logo="http://img.slim.re/imagens/canais/HBO-Family.png" group-title="CANAIS REDE HBO",• HBO Family HD
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-logo="http://img.slim.re/imagens/canais/HBO-Family.png" group-title="CANAIS REDE HBO",HBO Family HD
 http://protec.2pds.top:80/892849957/011595894/204064
-#EXTINF:-1 tvg-id="" tvg-name="• HBO Family SD" tvg-logo="http://img.slim.re/imagens/canais/HBO-Family.png" group-title="CANAIS REDE HBO",• HBO Family SD
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family SD" tvg-logo="http://img.slim.re/imagens/canais/HBO-Family.png" group-title="CANAIS REDE HBO",HBO Family SD
 http://protec.2pds.top:80/892849957/011595894/204065
-#EXTINF:-1 tvg-id="" tvg-name="• HBO HD" tvg-logo="http://img.slim.re/imagens/canais/HBO1.png" group-title="CANAIS REDE HBO",• HBO HD
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="http://img.slim.re/imagens/canais/HBO1.png" group-title="CANAIS REDE HBO",HBO HD
 http://protec.2pds.top:80/892849957/011595894/204066
-#EXTINF:-1 tvg-id="" tvg-name="• HBO Mundi FHD" tvg-logo="http://img.slim.re/imagens/canais/HBO-Mundi.png" group-title="CANAIS REDE HBO",• HBO Mundi FHD
+#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi FHD" tvg-logo="http://img.slim.re/imagens/canais/HBO-Mundi.png" group-title="CANAIS REDE HBO",HBO Mundi FHD
 http://protec.2pds.top:80/892849957/011595894/204067
-#EXTINF:-1 tvg-id="" tvg-name="• HBO Mundi HD" tvg-logo="http://img.slim.re/imagens/canais/HBO-Mundi.png" group-title="CANAIS REDE HBO",• HBO Mundi HD
+#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi HD" tvg-logo="http://img.slim.re/imagens/canais/HBO-Mundi.png" group-title="CANAIS REDE HBO",HBO Mundi HD
 http://protec.2pds.top:80/892849957/011595894/204068
-#EXTINF:-1 tvg-id="" tvg-name="• HBO Mundi SD" tvg-logo="http://img.slim.re/imagens/canais/HBO-Mundi.png" group-title="CANAIS REDE HBO",• HBO Mundi SD
+#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi SD" tvg-logo="http://img.slim.re/imagens/canais/HBO-Mundi.png" group-title="CANAIS REDE HBO",HBO Mundi SD
 http://protec.2pds.top:80/892849957/011595894/204069
-#EXTINF:-1 tvg-id="" tvg-name="• HBO Plus FHD" tvg-logo="http://img.slim.re/imagens/canais/HBO-Plus.png" group-title="CANAIS REDE HBO",• HBO Plus FHD
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus FHD" tvg-logo="http://img.slim.re/imagens/canais/HBO-Plus.png" group-title="CANAIS REDE HBO",HBO Plus FHD
 http://protec.2pds.top:80/892849957/011595894/204070
-#EXTINF:-1 tvg-id="" tvg-name="• HBO Plus HD" tvg-logo="http://img.slim.re/imagens/canais/HBO-Plus.png" group-title="CANAIS REDE HBO",• HBO Plus HD
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus HD" tvg-logo="http://img.slim.re/imagens/canais/HBO-Plus.png" group-title="CANAIS REDE HBO",HBO Plus HD
 http://protec.2pds.top:80/892849957/011595894/204071
-#EXTINF:-1 tvg-id="" tvg-name="• HBO Plus SD" tvg-logo="http://img.slim.re/imagens/canais/HBO-Plus.png" group-title="CANAIS REDE HBO",• HBO Plus SD
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus SD" tvg-logo="http://img.slim.re/imagens/canais/HBO-Plus.png" group-title="CANAIS REDE HBO",HBO Plus SD
 http://protec.2pds.top:80/892849957/011595894/204072
-#EXTINF:-1 tvg-id="" tvg-name="• HBO Pop FHD" tvg-logo="http://img.slim.re/imagens/canais/HBO-Pop.png" group-title="CANAIS REDE HBO",• HBO Pop FHD
+#EXTINF:-1 tvg-id="" tvg-name="HBO Pop FHD" tvg-logo="http://img.slim.re/imagens/canais/HBO-Pop.png" group-title="CANAIS REDE HBO",HBO Pop FHD
 http://protec.2pds.top:80/892849957/011595894/204073
-#EXTINF:-1 tvg-id="" tvg-name="• HBO Pop HD" tvg-logo="http://img.slim.re/imagens/canais/HBO-Pop.png" group-title="CANAIS REDE HBO",• HBO Pop HD
+#EXTINF:-1 tvg-id="" tvg-name="HBO Pop HD" tvg-logo="http://img.slim.re/imagens/canais/HBO-Pop.png" group-title="CANAIS REDE HBO",HBO Pop HD
 http://protec.2pds.top:80/892849957/011595894/204074
-#EXTINF:-1 tvg-id="" tvg-name="• HBO Pop SD" tvg-logo="http://img.slim.re/imagens/canais/HBO-Pop.png" group-title="CANAIS REDE HBO",• HBO Pop SD
+#EXTINF:-1 tvg-id="" tvg-name="HBO Pop SD" tvg-logo="http://img.slim.re/imagens/canais/HBO-Pop.png" group-title="CANAIS REDE HBO",HBO Pop SD
 http://protec.2pds.top:80/892849957/011595894/204075
-#EXTINF:-1 tvg-id="" tvg-name="• HBO SD" tvg-logo="http://img.slim.re/imagens/canais/HBO1.png" group-title="CANAIS REDE HBO",• HBO SD
+#EXTINF:-1 tvg-id="" tvg-name="HBO SD" tvg-logo="http://img.slim.re/imagens/canais/HBO1.png" group-title="CANAIS REDE HBO",HBO SD
 http://protec.2pds.top:80/892849957/011595894/204076
-#EXTINF:-1 tvg-id="" tvg-name="• HBO Signature FHD" tvg-logo="http://img.slim.re/imagens/canais/HBO-Signature.png" group-title="CANAIS REDE HBO",• HBO Signature FHD
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature FHD" tvg-logo="http://img.slim.re/imagens/canais/HBO-Signature.png" group-title="CANAIS REDE HBO",HBO Signature FHD
 http://protec.2pds.top:80/892849957/011595894/204077
-#EXTINF:-1 tvg-id="" tvg-name="• HBO Signature HD" tvg-logo="http://img.slim.re/imagens/canais/HBO-Signature.png" group-title="CANAIS REDE HBO",• HBO Signature HD
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature HD" tvg-logo="http://img.slim.re/imagens/canais/HBO-Signature.png" group-title="CANAIS REDE HBO",HBO Signature HD
 http://protec.2pds.top:80/892849957/011595894/204078
-#EXTINF:-1 tvg-id="" tvg-name="• HBO Signature SD" tvg-logo="http://img.slim.re/imagens/canais/HBO-Signature.png" group-title="CANAIS REDE HBO",• HBO Signature SD
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature SD" tvg-logo="http://img.slim.re/imagens/canais/HBO-Signature.png" group-title="CANAIS REDE HBO",HBO Signature SD
 http://protec.2pds.top:80/892849957/011595894/204079
-#EXTINF:-1 tvg-id="" tvg-name="• HBO Xtreme FHD" tvg-logo="http://img.slim.re/imagens/canais/HBO-Xtreme.png" group-title="CANAIS REDE HBO",• HBO Xtreme FHD
+#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme FHD" tvg-logo="http://img.slim.re/imagens/canais/HBO-Xtreme.png" group-title="CANAIS REDE HBO",HBO Xtreme FHD
 http://protec.2pds.top:80/892849957/011595894/204080
-#EXTINF:-1 tvg-id="" tvg-name="• HBO Xtreme HD" tvg-logo="http://img.slim.re/imagens/canais/HBO-Xtreme.png" group-title="CANAIS REDE HBO",• HBO Xtreme HD
+#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme HD" tvg-logo="http://img.slim.re/imagens/canais/HBO-Xtreme.png" group-title="CANAIS REDE HBO",HBO Xtreme HD
 http://protec.2pds.top:80/892849957/011595894/204081
-#EXTINF:-1 tvg-id="" tvg-name="• HBO Xtreme SD" tvg-logo="http://img.slim.re/imagens/canais/HBO-Xtreme.png" group-title="CANAIS REDE HBO",• HBO Xtreme SD
+#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme SD" tvg-logo="http://img.slim.re/imagens/canais/HBO-Xtreme.png" group-title="CANAIS REDE HBO",HBO Xtreme SD
 http://protec.2pds.top:80/892849957/011595894/204082
------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="" tvg-name="• Telecine Action FHD" tvg-logo="http://img.slim.re/imagens/canais/TC-Action.png" group-title="CANAIS REDE TELECINE",• Telecine Action FHD
+----------------------------------------CANAIS REDE TELECINE-------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action FHD" tvg-logo="http://img.slim.re/imagens/canais/TC-Action.png" group-title="CANAIS REDE TELECINE",Telecine Action FHD
 http://protec.2pds.top:80/892849957/011595894/204083
-#EXTINF:-1 tvg-id="" tvg-name="• Telecine Action HD" tvg-logo="http://img.slim.re/imagens/canais/TC-Action.png" group-title="CANAIS REDE TELECINE",• Telecine Action HD
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action HD" tvg-logo="http://img.slim.re/imagens/canais/TC-Action.png" group-title="CANAIS REDE TELECINE",Telecine Action HD
 http://protec.2pds.top:80/892849957/011595894/204084
-#EXTINF:-1 tvg-id="" tvg-name="• Telecine Action SD" tvg-logo="http://img.slim.re/imagens/canais/TC-Action.png" group-title="CANAIS REDE TELECINE",• Telecine Action SD
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action SD" tvg-logo="http://img.slim.re/imagens/canais/TC-Action.png" group-title="CANAIS REDE TELECINE",Telecine Action SD
 http://protec.2pds.top:80/892849957/011595894/204085
-#EXTINF:-1 tvg-id="" tvg-name="• Telecine Cult FHD" tvg-logo="http://img.slim.re/imagens/canais/TC-Cult.png" group-title="CANAIS REDE TELECINE",• Telecine Cult FHD
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult FHD" tvg-logo="http://img.slim.re/imagens/canais/TC-Cult.png" group-title="CANAIS REDE TELECINE",Telecine Cult FHD
 http://protec.2pds.top:80/892849957/011595894/204086
-#EXTINF:-1 tvg-id="" tvg-name="• Telecine Cult HD" tvg-logo="http://img.slim.re/imagens/canais/TC-Cult.png" group-title="CANAIS REDE TELECINE",• Telecine Cult HD
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult HD" tvg-logo="http://img.slim.re/imagens/canais/TC-Cult.png" group-title="CANAIS REDE TELECINE",Telecine Cult HD
 http://protec.2pds.top:80/892849957/011595894/204087
-#EXTINF:-1 tvg-id="" tvg-name="• Telecine Cult SD" tvg-logo="http://img.slim.re/imagens/canais/TC-Cult.png" group-title="CANAIS REDE TELECINE",• Telecine Cult SD
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult SD" tvg-logo="http://img.slim.re/imagens/canais/TC-Cult.png" group-title="CANAIS REDE TELECINE",Telecine Cult SD
 http://protec.2pds.top:80/892849957/011595894/204088
-#EXTINF:-1 tvg-id="" tvg-name="• Telecine Fun FHD" tvg-logo="http://img.slim.re/imagens/canais/TC-Fun.png" group-title="CANAIS REDE TELECINE",• Telecine Fun FHD
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun FHD" tvg-logo="http://img.slim.re/imagens/canais/TC-Fun.png" group-title="CANAIS REDE TELECINE",Telecine Fun FHD
 http://protec.2pds.top:80/892849957/011595894/204089
-#EXTINF:-1 tvg-id="" tvg-name="• Telecine Fun HD" tvg-logo="http://img.slim.re/imagens/canais/TC-Fun.png" group-title="CANAIS REDE TELECINE",• Telecine Fun HD
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun HD" tvg-logo="http://img.slim.re/imagens/canais/TC-Fun.png" group-title="CANAIS REDE TELECINE",Telecine Fun HD
 http://protec.2pds.top:80/892849957/011595894/204090
-#EXTINF:-1 tvg-id="" tvg-name="• Telecine Fun SD" tvg-logo="http://img.slim.re/imagens/canais/TC-Fun.png" group-title="CANAIS REDE TELECINE",• Telecine Fun SD
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun SD" tvg-logo="http://img.slim.re/imagens/canais/TC-Fun.png" group-title="CANAIS REDE TELECINE",Telecine Fun SD
 http://protec.2pds.top:80/892849957/011595894/204091
-#EXTINF:-1 tvg-id="" tvg-name="• Telecine Pipoca FHD" tvg-logo="http://img.slim.re/imagens/canais/TC-Pipoca.png" group-title="CANAIS REDE TELECINE",• Telecine Pipoca FHD
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca FHD" tvg-logo="http://img.slim.re/imagens/canais/TC-Pipoca.png" group-title="CANAIS REDE TELECINE",Telecine Pipoca FHD
 http://protec.2pds.top:80/892849957/011595894/204092
-#EXTINF:-1 tvg-id="" tvg-name="• Telecine Pipoca HD" tvg-logo="http://img.slim.re/imagens/canais/TC-Pipoca.png" group-title="CANAIS REDE TELECINE",• Telecine Pipoca HD
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca HD" tvg-logo="http://img.slim.re/imagens/canais/TC-Pipoca.png" group-title="CANAIS REDE TELECINE",Telecine Pipoca HD
 http://protec.2pds.top:80/892849957/011595894/204093
-#EXTINF:-1 tvg-id="" tvg-name="• Telecine Pipoca SD" tvg-logo="http://img.slim.re/imagens/canais/TC-Pipoca.png" group-title="CANAIS REDE TELECINE",• Telecine Pipoca SD
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca SD" tvg-logo="http://img.slim.re/imagens/canais/TC-Pipoca.png" group-title="CANAIS REDE TELECINE",Telecine Pipoca SD
 http://protec.2pds.top:80/892849957/011595894/204094
-#EXTINF:-1 tvg-id="" tvg-name="• Telecine Premium FHD" tvg-logo="http://img.slim.re/imagens/canais/TC-Premium.png" group-title="CANAIS REDE TELECINE",• Telecine Premium FHD
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium FHD" tvg-logo="http://img.slim.re/imagens/canais/TC-Premium.png" group-title="CANAIS REDE TELECINE",Telecine Premium FHD
 http://protec.2pds.top:80/892849957/011595894/204095
-#EXTINF:-1 tvg-id="" tvg-name="• Telecine Premium HD" tvg-logo="http://img.slim.re/imagens/canais/TC-Premium.png" group-title="CANAIS REDE TELECINE",• Telecine Premium HD
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium HD" tvg-logo="http://img.slim.re/imagens/canais/TC-Premium.png" group-title="CANAIS REDE TELECINE",Telecine Premium HD
 http://protec.2pds.top:80/892849957/011595894/204096
-#EXTINF:-1 tvg-id="" tvg-name="• Telecine Premium SD" tvg-logo="http://img.slim.re/imagens/canais/TC-Premium.png" group-title="CANAIS REDE TELECINE",• Telecine Premium SD
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium SD" tvg-logo="http://img.slim.re/imagens/canais/TC-Premium.png" group-title="CANAIS REDE TELECINE",Telecine Premium SD
 http://protec.2pds.top:80/892849957/011595894/204097
-#EXTINF:-1 tvg-id="" tvg-name="• Telecine Touch FHD" tvg-logo="http://img.slim.re/imagens/canais/TC-Touch.png" group-title="CANAIS REDE TELECINE",• Telecine Touch FHD
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch FHD" tvg-logo="http://img.slim.re/imagens/canais/TC-Touch.png" group-title="CANAIS REDE TELECINE",Telecine Touch FHD
 http://protec.2pds.top:80/892849957/011595894/204098
-#EXTINF:-1 tvg-id="" tvg-name="• Telecine Touch HD" tvg-logo="http://img.slim.re/imagens/canais/TC-Touch.png" group-title="CANAIS REDE TELECINE",• Telecine Touch HD
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch HD" tvg-logo="http://img.slim.re/imagens/canais/TC-Touch.png" group-title="CANAIS REDE TELECINE",Telecine Touch HD
 http://protec.2pds.top:80/892849957/011595894/204099
-#EXTINF:-1 tvg-id="" tvg-name="• Telecine Touch SD" tvg-logo="http://img.slim.re/imagens/canais/TC-Touch.png" group-title="CANAIS REDE TELECINE",• Telecine Touch SD
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch SD" tvg-logo="http://img.slim.re/imagens/canais/TC-Touch.png" group-title="CANAIS REDE TELECINE",Telecine Touch SD
 http://protec.2pds.top:80/892849957/011595894/204100
---------------------------------------------------------------------------------
+--------------------------------CANAIS I FILMES E SERIES------------------------------------------------------
 #EXTINF:-1 tvg-id="AE.br" tvg-name="A&E FHD" tvg-logo="http://img.slim.re/imagens/canais/AandE.png" group-title="CANAIS I FILMES E SERIES",A&E FHD
 http://facilita.fun:80/811911153/414376531/9515224.ts
 #EXTINF:-1 tvg-id="AE.br" tvg-name="A&E HD" tvg-logo="http://img.slim.re/imagens/canais/AandE.png" group-title="CANAIS I FILMES E SERIES",A&E HD
@@ -574,7 +534,7 @@ http://facilita.fun:80/811911153/414376531/9515287.ts
 http://facilita.fun:80/811911153/414376531/9515288.ts
 #EXTINF:-1 tvg-id="UniversalReality.br" tvg-name="Universal Reality SD" tvg-logo="" group-title="CANAIS I FILMES E SERIES",Universal Reality SD
 http://facilita.fun:80/811911153/414376531/9515289.ts
----------------------------------------------------------------------------------------------
+-----------------------------------------CANAIS I NOTICIAS----------------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="BM&C News FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjM5MThf/bmecnews.png" group-title="CANAIS I NOTICIAS",BM&C News FHD
 http://facilita.fun:80/811911153/414376531/9515290.ts
 #EXTINF:-1 tvg-id="" tvg-name="BM&C News HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM5MThf/bmecnews.png" group-title="CANAIS I NOTICIAS",BM&C News HD
@@ -635,7 +595,7 @@ http://facilita.fun:80/811911153/414376531/9515317.ts
 http://facilita.fun:80/811911153/414376531/9515318.ts
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News SD" tvg-logo="http://img.slim.re/imagens/canais/Record-News.png" group-title="CANAIS I NOTICIAS",Record News SD
 http://facilita.fun:80/811911153/414376531/9515319.ts
------------------------------------------------------------------------------------------
+-------------------------------------CANAIS I DOCUMENTARIOS----------------------------------------------------
 #EXTINF:-1 tvg-id="br#animal-planet-hd" tvg-name="Animal Planet FHD" tvg-logo="http://img.slim.re/imagens/canais/Animal-Planet.png" group-title="CANAIS I DOCUMENTARIOS",Animal Planet FHD
 http://facilita.fun:80/811911153/414376531/9515320.ts
 #EXTINF:-1 tvg-id="br#animal-planet-hd" tvg-name="Animal Planet HD" tvg-logo="http://img.slim.re/imagens/canais/Animal-Planet.png" group-title="CANAIS I DOCUMENTARIOS",Animal Planet HD
@@ -706,14 +666,18 @@ http://facilita.fun:80/811911153/414376531/9515356.ts
 http://facilita.fun:80/811911153/414376531/9515357.ts
 #EXTINF:-1 tvg-id="" tvg-name="National Geographic SD" tvg-logo="http://img.slim.re/imagens/canais/National-Geographic.png" group-title="CANAIS I DOCUMENTARIOS",National Geographic SD
 http://facilita.fun:80/811911153/414376531/9515358.ts
---------------------------------------------------------------------------------------------------------
+----------------------------------CANAIS SÉRIES 24H----------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="24H Dois Homens e Meio #1 (2003)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS SÉRIES 24H",24H Dois Homens e Meio #1 (2003)
+http://protec.2pds.top:80/892849957/011595894/204625
+#EXTINF:-1 tvg-id="" tvg-name="24H Dois Homens e Meio (2003)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS SÉRIES 24H",24H Dois Homens e Meio (2003)
+http://protec.2pds.top:80/892849957/011595894/204626
 #EXTINF:-1 tvg-id="" tvg-name="Game of THrones 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="CANAIS SÉRIES 24H",Game of THrones 24H
 http://protec.2pds.top:80/892849957/011595894/204712
-#EXTINF:-1 tvg-id="" tvg-name="24H • Os Simpsons (1989)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS SÉRIES 24H",24H • Os Simpsons (1989)
+#EXTINF:-1 tvg-id="" tvg-name="24H Os Simpsons (1989)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS SÉRIES 24H",24H Os Simpsons (1989)
 http://protec.2pds.top:80/892849957/011595894/204663
-#EXTINF:-1 tvg-id="" tvg-name="24H • Todo Mundo Odeia o Chris (2005)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS SÉRIES 24H",24H • Todo Mundo Odeia o Chris (2005)
+#EXTINF:-1 tvg-id="" tvg-name="24H Todo Mundo Odeia o Chris (2005)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS SÉRIES 24H",24H Todo Mundo Odeia o Chris (2005)
 http://protec.2pds.top:80/892849957/011595894/204691
-#EXTINF:-1 tvg-id="" tvg-name="24H • Vikings (2013)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS SÉRIES 24H",24H • Vikings (2013)
+#EXTINF:-1 tvg-id="" tvg-name="24H Vikings (2013)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="CANAIS SÉRIES 24H",24H Vikings (2013)
 http://protec.2pds.top:80/892849957/011595894/204697
 #EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIRA O CRIS 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="CANAIS SÉRIES 24H",TODO MUNDO ODEIRA O CRIS 24H
 http://protec.2pds.top:80/892849957/011595894/204707
@@ -725,7 +689,24 @@ http://protec.2pds.top:80/892849957/011595894/204709
 http://protec.2pds.top:80/892849957/011595894/204710
 #EXTINF:-1 tvg-id="" tvg-name="EU A PATROA E AS CRIANÇAS 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="CANAIS SÉRIES 24H",EU A PATROA E AS CRIANÇAS 24H
 http://protec.2pds.top:80/892849957/011595894/204711
---------------------------------------------------------------------------------------------------------
+--------------------------CANAIS I RELIGIOSOS------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="IdealTV.br" tvg-name="Ideal TV HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxOTlf/idealtv.png" group-title="CANAIS I RELIGIOSOS",Ideal TV HD
+http://facilita.fun:80/811911153/414376531/9514995.ts
+#EXTINF:-1 tvg-id="IdealTV.br" tvg-name="Ideal TV SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxOTlf/idealtv.png" group-title="CANAIS I RELIGIOSOS",Ideal TV SD
+http://facilita.fun:80/811911153/414376531/9514996.ts
+#EXTINF:-1 tvg-id="RedeVida.br" tvg-name="Rede Vida HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0ODhf/redevida.png" group-title="CANAIS I RELIGIOSOS",Rede Vida HD
+http://facilita.fun:80/811911153/414376531/9515009.ts
+#EXTINF:-1 tvg-id="RedeVida.br" tvg-name="Rede Vida SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0ODhf/redevida.png" group-title="CANAIS I RELIGIOSOS",Rede Vida SD
+http://facilita.fun:80/811911153/414376531/9515010.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Evangelizar HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ2NjNf/tvevangelizar.png" group-title="CANAIS I RELIGIOSOS",TV Evangelizar HD
+http://facilita.fun:80/811911153/414376531/9515013.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Evangelizar SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ2NjNf/tvevangelizar.png" group-title="CANAIS I RELIGIOSOS",TV Evangelizar SD
+http://facilita.fun:80/811911153/414376531/9515014.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FoPnWx0.png" group-title="CANAIS I RELIGIOSOS",TV Evangelizar 
+https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Evangelizar" tvg-logo="http://techzzi.site/logos/religiosos/tvevangelizar.png" group-title="CANAIS I RELIGIOSOS",TV Evangelizar
+http://srv1.cc:80/664086854/131189925/6441978.ts
+----------------------------FILMES---------------------------------------------------------
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Missão Resgate: Vingança
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt27621210.mp4
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Corra Que a Polícia Vem Aí!
@@ -998,7 +979,7 @@ http://fhd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt0243736.mp4
 http://fhd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD/FHD5/tt0092746.mp4
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Acampamento do pecado
 http://fhd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt8949056.mp4
-----------------------------------------------------------------------------------
+--------------------------------FILMES1--------------------------------------------------
 #EXTINF:-1 tvg-name="Um Homem Sem Memória" tvg-logo="https://image.tmdb.org/t/p/w400/t3dTI1kMHMnf9CoLbit8RCcgYiW.jpg" group-title="FILMES1",Um Homem Sem Memória
 http://protec.2pds.top:80/movie/892849957/011595894/198211.mp4
 #EXTINF:-1 tvg-name="Uma Noite No Inferno" tvg-logo="https://image.tmdb.org/t/p/w400/65roHUbNQf7V6ZbPqrjYiiXs3E5.jpg" group-title="FILMES1",Uma Noite No Inferno
