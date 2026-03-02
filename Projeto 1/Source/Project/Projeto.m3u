@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/brazil.xml,https://www.bevy.be/bevyfiles/portugal.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/helenfernanda/gratis/main/distrotv.xml,https://www.bevy.be/bevyfiles/mexicopremium.xml"
+#EXTM3U
 ############################################################################ Canais | ABERTO
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD
 http://79.127.238.228:14217/
@@ -121,241 +121,1228 @@ http://24.152.8.38:5001/live/olhatv/index.m3u8
 https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0Hbt4qg.png" group-title="Canais | ABERTO",TV Candidés
 https://cdn.live.br1.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/playlist.m3u8
-############################################################################ CANAIS LG
-#EXTINF:0,Adrenalina Plus (BR)
-https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0,Agora TV (BR)
-https://agoratv-lg.amagi.tv/playlist.m3u8
-#EXTINF:0,AMC All Reality (US)
-https://amc-absolutereality-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:60,AMC Espanol (US)
-https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,AMC Stories (US)
-https://amc-amcpresents-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,AMC Portlandia (US)
-https://amc-portlandia-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,AMD The Walking Dead Fan Experience (US)
-https://amc-twdfanexperience-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Anger Management (US)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-angermanagement-lgus/playlist.m3u8
-#EXTINF:0,Are we There Yet (US)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyet-lgus/playlist.m3u8
-#EXTINF:0,Artflix (AT)
-https://amogonetworx-artflix-2-at.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Artflix (DE)
-https://amogonetworx-artflix-2-de.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Artflix (ES)
-https://amogonetworx-artflix-3-es.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Artflix (GB)
-https://amogonetworx-artflix-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Artflix (CH)
-https://amogonetworx-artflix-2-ch.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Autentic History (AU)
-https://autentic-autentichistory-1-au.lg.wurl.tv/playlist.m3u8%09
-#EXTINF:0,Autentic History (DK)
-https://autentic-autentichistory-1-dk.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Autentic History (FI)
-https://autentic-autentichistory-1-fi.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Autentic History (GB)
-https://autentic-autentichistory-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Autentic History (IE)
-https://autentic-autentichistory-1-ie.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Autentic History (NL)
-https://autentic-autentichistory-1-nl.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Autentic History (NO)
-https://autentic-autentichistory-1-no.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Autentic History (SE)
-https://autentic-autentichistory-1-se.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Autentic Travel (AU)
-https://autentic-autentictravel-1-au.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Autentic Travel (DK)
-https://autentic-autentictravel-1-dk.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Autentic Travel (FI)
-https://autentic-autentictravel-1-fi.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Autentic Travel (GB)
-https://autentic-autentictravel-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Autentic Travel (IE)
-https://autentic-autentictravel-1-ie.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Autentic Travel (SE)
-https://autentic-autentictravel-1-se.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Autentic Travel (NL)
-https://autentic-autentictravel-1-nl.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Autentic Travel (NO)
-https://autentic-autentictravel-1-no.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Autentic Spiegel TV Konflikte (AT)
-https://autentic-spiegeltv-konflikte-1-at.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Autentic Spiegel TV Konflikte (DE)
-https://autentic-spiegeltv-konflikte-1-de.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Autentic Spiegel TV Konflikte (CH)
-https://autentic-spiegeltv-konflikte-1-ch.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Autentic Terramater Wild (AT)
-https://autentic-terramaterwild-1-at.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Autentic Terramater Wild (DE)
-https://autentic-terramaterwild-1-de.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,AWE
-https://awe-lg.amagi.tv/playlist.m3u8
-#EXTINF:0,AWE (AU)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00450-herringnetwork-awe-lgau/playlist.m3u8
-#EXTINF:0,Awe Encore
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/oneameric-aweencore-lg/playlist.m3u8
-#EXTINF:0,Antiques Road Show (US) Geo
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02333-pbsdistribution-antiquesroadshow-lgus/playlist.m3u8
-#EXTINF:0,Aventura (US) Geo
-https://amg00136-wbd-amg00136c53-lg-us-5712.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0,B4U Movies (IN) Geo
-https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0,B4U Music (IN) Geo
-https://amg00877-b4unew-amg00877c3-lg-in-5261.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0,B4U Kadak (IN) Geo
-https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0,Baby Shark TV (AU)
-https://newidco-babysharktv-1-au.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Baby Shark TV (CA)
-https://newidco-babysharktv-1-ca.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Baby Shark TV (DE)
-https://newidco-babysharktv-1-de.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Baby Shark TV (FR)
-https://newidco-babysharktv-1-fr.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Baby Shark TV (GB)
-https://newidco-babysharktv-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Baby Shark TV (IT)
-https://newidco-babysharktv-1-it.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Baby Shark TV (US)
-https://newidco-babysharktv-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Baywatch (CA) Geo
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-baywatch-lgca/playlist.m3u8
-#EXTINF:0,Baywatch (US)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-baywatch-lgus/playlist.m3u8
-#EXTINF:0,BBC Bargain Hunt (US)
-https://bbc-studios-bargainhunt-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,BBC Earth (US)
-https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
-#EXTINF:0,BBC Top Gear (US)
-https://amg00793-bbcstudios-amg00793c4-lg-us-2527.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbctopgear8min-lgus/playlist.m3u8
-#EXTINF:0,BBC Top Gear (CA)
-https://amg00793-bbcstudios-amg00793c4-lg-ca-3070.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0,BBC Dinos 24x7 (US)
-https://amg00793-amg00793c35-lg-us-6412.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0,Beano TV (GB)
-https://beanostudios-beanotv-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Bigtjme (GB)
-https://amogonetworx-bigtjme-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Billiard TV (US) Geo
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01267-triplebmedia-billiardtv-lgus/playlist.m3u8
-#EXTINF:0,Billiard TV (CA) Geo
-https://amg01267-tripleb-amg01267c1-lg-ca-1303.playouts.now.amagi.tv/playlist/amg01267-tripleb-billiardstv-lgca/playlist.m3u8
-#EXTINF:0,Bizzarro Movies (IT)
-https://minerva-bizzarromovies-1-it.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Bloomberg Originals (BR)
-https://bloomberg-quicktake-4-br.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Bloomberg TV (BR)
-https://bloomberg-bloombergtv-1-br.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Bref Cinema (FR)
-https://lagenceducourtmetrage-brefcinema-01-fr.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Brightside English (AU) Geo
-#EXTINF:0,Canal Anime Onegai 1 Portuguese (BR)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=11777
-#EXTINF:0,Canal Anime Onegai 2 Portuguese (BR)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=11776
-#EXTINF:0,Canal Anime Onegai 3 Portuguese (BR)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=11775
-#EXTINF:0,Canal Anime Onegai 4 Portuguese (BR)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=11774
-#EXTINF:0,Canal Anime Onegai 5 Portuguese (BR)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=11773%20
-#EXTINF:0,Canal Rural (BR)
-https://brn-crbr-lg-channels-br.otteravision.com/brn/crbr/crbr.m3u8
-#EXTINF:0,BR IN TV (BR)
-https://brn-br-lg-channels-br.otteravision.com/brn/bt/bt_h265.m3u8
-#EXTINF:0,CNN Brasil (BR) Geo
-https://amg01391-sbtinfast-amg01391c4-lg-br-4597.playouts.now.amagi.tv/playlist/amg01391-addigital-cnnbrasil-lgbr/playlist.m3u8
-#EXTINF:0,Fashion TV (BR)
-https://fashiontv-fashiontv-5-br.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Filmelier TV (BR)
-https://amg00740-sofa-amg00740c8-lg-br-7321.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0,Film Gold (CH)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01866-mainstreammedia-filmgoldch-lgch/playlist.m3u8
-#EXTINF:0,Fuel TV Brazil PT (BR)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbrpt-lgbr/playlist.m3u8
-#EXTINF:0,Go USA (BR)
-https://brandusa-gousa-1-br.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,GPTV (BR)
-https://amg26329-amg26329c1-amgplt0030.playout.now3.amagi.tv/playlist.m3u8
-#EXTINF:0,Manual do Mundo (BR)
-https://amg17288-offgrid-amg17288c2-lg-br-6103.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0,Masterchef (BR)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-masterchef-lgbr/playlist.m3u8
-#EXTINF:0,MOB TV (BR)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01324-infamousmedia-mobtv-lgbr/playlist.m3u8
-#EXTINF:0,MovieDome Family
-https://kochmedia-moviedomefamily-lg.amagi.tv/playlist.m3u8
-#EXTINF:0,Movies 4 Free
-https://movies4free-lg.amagi.tv/playlist.m3u8
-#EXTINF:0,New Brasil (BR) Geo
-https://amg01391-sbtinfast-amg01391c5-lg-br-6099.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0,New Kid (BR)
-https://newidco-newkid-1-br.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Qwest Jazz (BR)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-lgbr/playlist.m3u8
-#EXTINF:0,Runtime Romance Portuguese (BR)
-https://run-ro-br-lgchannels.otteravision.com/run/ro_br/ro_br.m3u8
-#EXTINF:0,Runtime Familia Portuguese (BR)
-https://run-rufb-lgchannels.otteravision.com/run/rufb/rufb.m3u8
-#EXTINF:0,Runtime TV Cine Espanto (BR)
-https://run-th-br-lgchannels.otteravision.com/run/th_br/th_br.m3u8
-#EXTINF:0,Runtime Crime Portuguese (BR)
-https://run-cr-br-lgchannels.otteravision.com/run/cr_br/cr_br.m3u8
-#EXTINF:0,Runtime Comedia Portuguese (BR)
-https://run-rc-br-lgchannels.otteravision.com/run/rc_br/rc_br.m3u8
-#EXTINF:0,Runtime Ação Portuguese (BR)
-https://run-rt-ra-lgchannels.otteravision.com/run/rt_ra/rt_ra.m3u8%20
-#EXTINF:0,Sabor & Arte 2 (BR) Geo
-https://amg01391-sbtinfast-amg01391c6-lg-br-6100.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0,SBT International (BR) Brazil or U.S ip
-https://amg01391-sbtinfast-amg01391c1-lg-br-654.playouts.now.amagi.tv/playlist/amg01391-addigital-sbtinternational-lgbr/playlist.m3u8
-#EXTINF:0,Sony One Emoções (BR)
-https://spt-sonyoneemocoes-1-br.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Sony One Shark Tank (BR)
-https://spt-sonyonesharktankbrasil-1-br.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Sony One Cinema (BR)
-https://spt-sonyoneclassicas-1-br.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Spark Light Love (BR)
-https://candlelightmedia-sparklightlove-3-br.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Travel Plus (BR) Geo	
-https://amg24440-travelplus-amg24440c1-lg-br-6141.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0,Television Concientes (BR) Geo
-https://television-concientes-lgbr.amagi.tv/playlist.m3u8
-#EXTINF:0,Trace Brazuca (BR) Geo
-https://trace-brazuca-lg-br.amagi.tv/playlist.m3u8
-#EXTINF:0,Turma Da Monica (BR)
-https://amg00740-sofa-amg00740c9-lg-br-7304.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0,TV ZYN (BR)
-https://amg01391-sbtinfast-amg01391c2-lg-br-651.playouts.now.amagi.tv/playlist/amg01391-addigital-tvzyn-lgbr/playlist.m3u8
-#EXTINF:0,Vivaldi TV (BR) Geo
-https://mezzo-vivalditv-lg-br.amagi.tv/playlist.m3u8
-#EXTINF:0,Young Hollywood (AU)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00143-younghollywood-yunghollywd-lgau/playlist.m3u8
-#EXTINF:0,Show Champion
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5464
-#EXTINF:0,Weekly Idol
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5466
-#EXTINF:0,Arirang K-pop
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5468
-#EXTINF:0,Cocobi
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5476
-#EXTINF:0,Kongsuni
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5478
-#EXTINF:0,Tobot
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5480
-#EXTINF:0,Robocar Poli
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5482
-#EXTINF:0,My Little Pet
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5484
-#EXTINF:0,Running Man
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5490
-#EXTINF:0,K-Star Golf
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5498
-#EXTINF:0,CBS
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5529
-#EXTINF:0,Korean to id
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5500
+############################################################################ NOVOS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",PARAMOUNT +
+http://185.236.183.117:14040
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",PARAMOUNT +
+http://185.236.183.117:14041
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",PARAMOUNT +
+http://185.236.183.117:14043
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",PARAMOUNT +
+http://185.236.183.117:14045
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",PARAMOUNT +
+http://185.236.183.117:14046
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GLOBO
+http://185.236.183.117:14047
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GLOBOPLAY NOVELAS
+http://185.236.183.117:14053
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GLOBO
+http://185.236.183.117:14055
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GLOBO
+http://185.236.183.117:14056
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CAZE TV
+http://185.236.183.117:14059
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CAZE TV
+http://185.236.183.117:14061
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DAZN
+http://185.236.183.117:14068
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NOSSO FUTEBOL
+http://185.236.183.117:14069
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NOSSO FUTEBOL
+http://185.236.183.117:14070
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NOSSO FUTEBOL
+http://185.236.183.117:14071
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NOSSO FUTEBOL
+http://185.236.183.117:14072
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CURTA!
+http://185.236.183.117:14117
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO SIGNATURE
+http://185.236.183.117:14177
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO SIGNATURE
+http://185.236.183.117:14178
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO SIGNATURE
+http://185.236.183.117:14179
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO
+http://185.236.183.117:14186
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RELIGIOSO
+http://185.236.183.117:14226
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GLOBO
+http://185.236.183.117:14227
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GLOBO
+http://185.236.183.117:14228
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GLOBO
+http://185.236.183.117:14229
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GLOBO
+http://185.236.183.117:14230
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GLOBINHO
+http://185.236.183.117:14384
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GLOBINHO
+http://185.236.183.117:14385
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",H2
+http://185.236.183.117:14391
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",H2
+http://185.236.183.117:14393
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO
+http://185.236.183.117:14394
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO
+http://185.236.183.117:14395
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO
+http://185.236.183.117:14396
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO
+http://185.236.183.117:14397
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO2
+http://185.236.183.117:14398
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO2
+http://185.236.183.117:14399
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO2
+http://185.236.183.117:14400
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO2
+http://185.236.183.117:14401
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO FAMILY
+http://185.236.183.117:14402
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO FAMILY
+http://185.236.183.117:14403
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO FAMILY
+http://185.236.183.117:14404
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO FAMILY
+http://185.236.183.117:14405
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO +
+http://185.236.183.117:14406
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO +
+http://185.236.183.117:14407
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO +
+http://185.236.183.117:14408
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO +
+http://185.236.183.117:14409
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO MUNDI
+http://185.236.183.117:14410
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO MUNDI
+http://185.236.183.117:14411
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO MUNDI
+http://185.236.183.117:14412
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO MUNDI
+http://185.236.183.117:14413
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO POP
+http://185.236.183.117:14414
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO POP
+http://185.236.183.117:14415
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO SIGNATURE
+http://185.236.183.117:14420
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO SIGNATURE
+http://185.236.183.117:14421
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO XTREME
+http://185.236.183.117:14422
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO XTREME
+http://185.236.183.117:14423
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO XTREME
+http://185.236.183.117:14424
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO XTREME
+http://185.236.183.117:14425
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HGTV
+http://15.235.11.7:14144
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HISTORY
+http://15.235.11.7:14132
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HISTORY
+http://185.236.183.117:14434
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",JP NEWS
+http://185.236.183.117:14442
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",JP NEWS
+http://185.236.183.117:14443
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",JP NEWS
+http://185.236.183.117:14444
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",LIFE TIME
+http://185.236.183.117:14445
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",LIFE TIME
+http://185.236.183.117:14446
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",LIFE TIME
+http://185.236.183.117:14447
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",LIFE TIME
+http://185.236.183.117:14448
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MEGAPIX
+http://185.236.183.117:14449
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MEGAPIX
+http://185.236.183.117:14450
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MEGAPIX
+http://185.236.183.117:14451
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MEGAPIX
+http://185.236.183.117:14452
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",E!
+http://15.235.11.7:14151
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MTV COLORS
+http://15.235.11.7:14149
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MTV
+http://185.236.183.117:14453
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MTV
+http://185.236.183.117:14454
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MTV
+http://185.236.183.117:14455
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MTV
+http://185.236.183.117:14456
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MTV HITS
+http://185.236.183.117:14457
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MTV HITS
+http://185.236.183.117:14458
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MTV HITS
+http://185.236.183.117:14459
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MTV HITS
+http://185.236.183.117:14460
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MTV CHILI
+http://185.236.183.117:14461
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MTV CHILI
+http://185.236.183.117:14462
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MTV CHILI
+http://185.236.183.117:14463
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MTV CHILI
+http://185.236.183.117:14464
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MULTSHOW
+http://15.235.11.7:14146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MULTSHOW
+http://185.236.183.117:14465
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MULTSHOW
+http://185.236.183.117:14466
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MULTSHOW
+http://185.236.183.117:14467
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MULTSHOW
+http://185.236.183.117:14468
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",BOX MUSIC
+http://185.236.183.117:14469
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",BOX MUSIC
+http://185.236.183.117:14470
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",BOX MUSIC
+http://185.236.183.117:14471
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NHK WORLD
+http://185.236.183.117:14476
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NHK WORLD
+http://185.236.183.117:14477
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NICK JUNIOR
+http://185.236.183.117:14478
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NICK JUNIOR
+http://185.236.183.117:14479
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NICK JUNIOR
+http://185.236.183.117:14480
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NICK JUNIOR
+http://185.236.183.117:14481
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NICKELODEON
+http://185.236.183.117:14482
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NICKELODEON
+http://185.236.183.117:14483
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NICKELODEON
+http://185.236.183.117:14484
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NICKELODEON
+http://185.236.183.117:14485
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CANAL UOL
+http://185.236.183.117:14488
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",OFF
+http://185.236.183.117:14490
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",OFF
+http://185.236.183.117:14492
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",OFF
+http://185.236.183.117:14493
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",PARAMOUNT NETWORK
+http://185.236.183.117:14495
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",PARAMOUNT NETWORK
+http://185.236.183.117:14496
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",PARAMOUNT NETWORK
+http://185.236.183.117:14497
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",PARAMOUNT NETWORK
+http://185.236.183.117:14498
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",PLAY BOY
+http://185.236.183.117:14501
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO MUNDI
+http://185.236.183.117:14502
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",PLAY BOY
+http://185.236.183.117:14503
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",PLAY BOY
+http://185.236.183.117:14504
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",POLISHOP
+http://185.236.183.117:14505
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",POLISHOP
+http://185.236.183.117:14506
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",PRIME
+http://185.236.183.117:14535
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",PRIME
+http://185.236.183.117:14536
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",PRIME
+http://185.236.183.117:14537
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RAI ITALIA
+http://185.236.183.117:14538
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RECORD
+http://185.236.183.117:14539
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RECORD
+http://185.236.183.117:14540
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RECORD
+http://185.236.183.117:14541
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RECORD
+http://185.236.183.117:14542
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RECORD
+http://185.236.183.117:14543
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RECORD
+http://185.236.183.117:14544
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RECORD
+http://185.236.183.117:14545
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RECORD
+http://185.236.183.117:14546
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RECORD
+http://185.236.183.117:14547
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RECORD
+http://185.236.183.117:14548
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RECORD
+http://185.236.183.117:14549
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RECORD
+http://185.236.183.117:14550
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RECORD
+http://185.236.183.117:14551
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RECORD
+http://185.236.183.117:14552
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RECORD
+http://185.236.183.117:14553
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RECORD
+http://185.236.183.117:14554
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RECORD
+http://185.236.183.117:14555
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RECORD
+http://185.236.183.117:14556
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RECORD
+http://185.236.183.117:14557
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RECORD
+http://185.236.183.117:14558
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RECORD
+http://185.236.183.117:14559
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RECORD
+http://185.236.183.117:14560
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RECORD
+http://185.236.183.117:14561
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RECORD
+http://185.236.183.117:14562
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RECORD
+http://185.236.183.117:14563
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RECORD
+http://185.236.183.117:14564
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RECORD NEWS
+http://185.236.183.117:14565
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RECORD
+http://185.236.183.117:14566
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TELECINE TOUCH
+http://185.236.183.117:14691
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TELECINE TOUCH
+http://185.236.183.117:14692
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TELECINE CULT
+http://185.236.183.117:14693
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TELECINE CULT
+http://185.236.183.117:14694
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TELECINE CULT
+http://185.236.183.117:14695
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TELECINE CULT
+http://185.236.183.117:14696
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",OFF
+http://15.235.11.7:14074
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",OFF
+http://15.235.11.7:14075
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",OFF
+http://15.235.11.7:14076
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CNN BRASIL
+http://15.235.11.7:14118
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",BAND NEWS
+http://15.235.11.7:14121
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",JP NEWS
+http://15.235.11.7:14124
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CNN
+http://15.235.11.7:14128
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HISTORY
+http://15.235.11.7:14132
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HGTV
+http://15.235.11.7:14144
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MULTISHOW
+http://15.235.11.7:14146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MTV
+http://15.235.11.7:14149
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",E!
+http://15.235.11.7:14151
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",COMEDY CENTRAL
+http://15.235.11.7:14156
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WOOHOO
+http://15.235.11.7:14159
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",BIS
+http://15.235.11.7:14162
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",FISHTV
+http://15.235.11.7:14165
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",FOOD NETWORK
+http://15.235.11.7:14168
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CURTA!
+http://15.235.11.7:14171
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CNAL BRASIL
+http://15.235.11.7:14172
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TELECINE PIPOCA
+http://15.235.50.115:14005
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TELECINE PIPOCA
+http://15.235.50.115:14006
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TELECINE PREMIUM
+http://15.235.50.115:14007
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TELECINE PREMIUM
+http://15.235.50.115:14008
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TELECINE PREMIUM
+http://15.235.50.115:14009
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TELECINE TOUCH
+http://15.235.50.115:14011
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TELECINE TOUCH
+http://15.235.50.115:14012
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TELECINE TOUCH
+http://15.235.50.115:14013
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TELECINE CULT
+http://15.235.50.115:14014
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TELECINE CULT
+http://15.235.50.115:14015
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TELECINE FUN
+http://15.235.50.115:14016
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TELECINE FUN
+http://15.235.50.115:14017
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TELECINE FUN
+http://15.235.50.115:14018
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ESPN
+http://15.235.50.115:14056
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",PREMIERE
+http://15.235.50.112:14020
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DISCOVERY TURBO
+http://15.235.50.112:14097
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",H&H
+http://15.235.50.112:14100
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DISCOVERY THEATER
+http://15.235.50.112:14103
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DISCOVERY SCIENCE
+http://15.235.50.112:14106
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TLC
+http://15.235.50.112:14109
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DISCOVERY WORLD
+http://15.235.50.112:14112
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DISCOVERY ID
+http://15.235.50.112:14115
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO
+http://15.235.50.112:14186
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO 2
+http://15.235.50.112:14189
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HOB FAMILY
+http://15.235.50.112:14192
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO MUNDI
+http://15.235.50.112:14195
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DISCOVERY KIDS
+http://15.235.50.112:14561
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GLOBO
+http://185.246.208.74:14100
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GLOBO
+http://185.246.208.74:14108
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GLOBO
+http://185.246.208.74:14110
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GLOBO
+http://185.246.208.74:14120
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GLOBO
+http://185.246.208.74:14140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DISCOVERY CHANNEL
+http://185.246.208.74:14144
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SBT
+http://185.246.208.74:14367
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",PREMIERE
+http://185.246.208.74:14882
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",PREMIERE
+http://185.246.208.74:14452
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RECORD
+http://185.246.208.74:14660
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",PREMIERE
+http://185.246.208.74:14870
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GLOBONEWS
+http://79.127.238.228:14093/GLOBONEWS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GLOBO
+http://79.127.238.228:14211/GLOBO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GLOBO
+http://79.127.238.228:14217/GLOBO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",BAND
+http://79.127.238.228:14298/BAND
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GNT
+http://79.127.238.228:14402/GNT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TLC
+http://79.127.238.228:14433/TLC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GLOBOPLAY
+http://79.127.238.228:14455/GLOBOPLAY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",A&E
+http://79.127.238.228:14551/A&E
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",AXN
+http://79.127.238.228:14563/AXN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MEGAPIX
+http://79.127.238.228:14592/MEGAPIX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TNT
+http://79.127.238.228:14629/TNT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WARNER
+http://79.127.238.228:14647/WARNER
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",PREMIERE
+http://15.235.11.7:14019
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",PREMIERE
+http://15.235.50.112:14020
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DISCOVERY TURBO
+http://15.235.50.112:14097
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",H&H
+http://15.235.50.112:14100
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DISCOVERY THEATER
+http://15.235.50.112:14103
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DISCOVERY SCIENCE
+http://15.235.50.112:14106
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TLC
+http://15.235.50.112:14109
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DISCOVERY WORLD
+http://15.235.50.112:14112
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DISCOVERY ID
+http://15.235.50.112:14115
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO
+http://15.235.50.112:14186
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO 2
+http://15.235.50.112:14189
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HOB FAMILY
+http://15.235.50.112:14192
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HBO MUNDI
+http://15.235.50.112:14195
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DISCOVERY KIDS
+http://15.235.50.112:14561
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TNT
+http://185.236.183.117:14703
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TNT
+http://185.236.183.117:14704
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TNT
+http://185.236.183.117:14705
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TNT
+http://185.236.183.117:14706
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TNT SERIES
+http://185.236.183.117:14707
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TNT SERIES
+http://185.236.183.117:14708
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TNT SERIES
+http://185.236.183.117:14709
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TNT SERIES
+http://185.236.183.117:14710
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TRADE BRASIL
+http://185.236.183.117:14716
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TRADE BRASIL
+http://185.236.183.117:14717
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TRAVEL
+http://185.236.183.117:14720
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RELIGIOSO
+http://185.236.183.117:14737
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RATIMBUM
+http://185.236.183.117:14742
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",UNIVERSAL CHANNEL
+http://185.236.183.117:14746
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",UNIVERSAL CHANNEL
+http://185.236.183.117:14747
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",UNIVERSAL CHANNEL
+http://185.236.183.117:14748
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",UNIVERSAL CHANNEL
+http://185.236.183.117:14749
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",VENUS
+http://185.236.183.117:14750
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GLOBOPLAY NOVELAS
+http://185.236.183.117:14756
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GLOBOPLAY NOVELAS
+http://185.236.183.117:14757
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WARNER
+http://185.236.183.117:14758
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WARNER
+http://185.236.183.117:14759
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WARNER
+http://185.236.183.117:14760
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WARNER
+http://185.236.183.117:14761
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WOOHOO
+http://185.236.183.117:14763
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WOOHOO
+http://185.236.183.117:14764
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WOOHOO
+http://185.236.183.117:14765
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DUM DUM
+http://185.236.183.117:14766
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DUM DUM
+http://185.236.183.117:14767
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DUM DUM
+http://185.236.183.117:14768
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DUM DUM
+http://185.236.183.117:14769
+############################################################################ FILMES
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Jogos de Sedução
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt31030120.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Desastre no Voo US57
+ertg43r5g34ty34yt543t43wer234t34y3s7
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",A Duquesa Vingadora
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt18300732.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",100 Coisas Para Fazer Antes de Virar Zumbi
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt20672534.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Gatos, Fios Dentais e Amassos
+http://hd5.oneplayer.site/token/FHD5/tt0963743.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",A Meia-irmã Feia
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt29344903.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Troll da Montanha 2
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt29232158.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Um Natal Bem Jonas Brothers
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt35600079.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Veterano
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt15431864.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Outro Amor Fora do Tempo
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt35672930.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Chainsaw Man – O Filme: Arco da Reze
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt30472557.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",O Melhor Fim de Semana de Todos
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt14827898.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Humane: Até Onde O Ser Humano Pode Chegar
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt16280912.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",A Arte das Oito Armas
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt10079652.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Caçada Final
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt28637902.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Veterano
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt15431864.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Meu Namorado é um Zumbi 
+http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD3/tt1588173.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Nós Somos Zumbis
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt5478456.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Trust
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt31314745.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",A Paris Errada
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt33039440.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",REBEL RIDGE
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt11301886.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Missão Resgate: Vingança
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt27621210.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Corra Que a Polícia Vem Aí!
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt3402138.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Bater ou Correr em Londres
+http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD3/tt0300471.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Bater ou Correr
+http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD3/tt0184894.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Willy's Wonderland - Parque Maldito
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt8114980.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Velocidade Total
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt27357183.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Como Treinar o Seu Dragão
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt26743210.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Os Bad Boas
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt27675583.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",O Palhaço no Milharal
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt23060698.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Bailarina – Do Universo de John Wick
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt7181546.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Kaiju No. 8: Missão de Reconhecimento
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt35636950.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Chefes de Estado
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt13357520.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Premonição 2
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt0309593.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Premonição 3
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt0414982.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Operação Panda: Missão Resgate
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt28630624.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Com Unhas e Dentes
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt35669009.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Dora e a Busca pelo Sol Dourado
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt32621553.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Improvisação Perigosa
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt31121295.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Os Radley
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt22889928.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Corações Roubados
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt31240036.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Malcolm X
+http://hd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt0104797.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Histeria
+http://hd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt0212235.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",It – A Coisa
+http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD3/tt1396484.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",It – Capítulo Dois
+http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD3/tt7349950.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Masameer Junior
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt31408343.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Missão: Impossível – O Acerto Final
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt9603208.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Meu Eu do Futuro
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt18559464.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Homem com H
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt35301431.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Baby Blue – Assassino em Série
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt18376800.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Perseguição Criminosa
+http://hd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt7448180.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Perseguição Criminosa 2
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt10933680.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Dono da Festa
+http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD3/tt0283111.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Dono da Festa 3
+http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD3/tt1276434.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Ninja Assassino
+http://hd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt1186367.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Lilo & Stitch
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt11655566.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Thunderbolts
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt20969586.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Karatê Kid: Lendas
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt1674782.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Rua do Medo: Rainha do Baile
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt31433402.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Demon City
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt35111035.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",A Guerra dos Mundos – O Ataque 2023
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt12519802.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Guerra dos Mundos 2005
+http://hd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt0407304.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Escola da Máfia
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt12919688.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Acordo com o Diabo
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt13836760.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Ele é Um Gato!
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt20672560.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Step Sisters
+http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD10/tt5267472.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Baila, Vini
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt34682248.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Um Panda em Apuros 2
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt9719256.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Caos e Destruição
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt14123284.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Fantasma no Cemitério
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt7124092.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",O Macaco
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt27714946.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Celebração Macabra
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt23785128.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Fúria Sobre Rodas
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt28955168.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Better Man – A História de Robbie Williams
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt14260836.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Novocaine: À Prova de Dor
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt29603959.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Branca de Neve
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt6208148.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",O Brutalista
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt8999762.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Projeto Extração
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt6879446.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",O Urso do Pó Branco
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt14209916.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Mufasa: O Rei Leão
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt13186482.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Amor Bandido
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt30788842.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Sem sentido
+http://hd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt0120820.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",A Missy Errada
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt9619798.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Tubarão Touro
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt14912006.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",O Mal Mora Aqui
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt29341577.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",A Última Invocação
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt26758292.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Bad Candy
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt6561576.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",O Tatuador
+http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD10/tt0817228.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Cão de Briga
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt22489042.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Retaliação
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt11261830.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Inatividade Paranormal
+http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD3/tt2243537.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Inatividade Paranormal 2
+http://hd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt2828996.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",As Aventuras de Max Keeble
+http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD10/tt0273799.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",A Nova Geração da Máfia
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt9010322.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Invasão U.S.A.
+http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD10/tt0089348.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Capitão América: Admirável Mundo Novo
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt14513804.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Guarda Costas e Assassinos
+http://hd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt1403130.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",A Ordem
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt26625693.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Confia: Sonho de Cria
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt34581855.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Os Altos e Baixos do Amor
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt30308957.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",A Substância
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt17526714.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Bogotá: A Cidade dos Sonhos Perdidos
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt22507374.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Demon City
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt35111035.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",O Auto da Compadecida 2
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt28696532.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Agente Oculto 
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt1649418.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",A Morte do Demônio 
+http://hd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt1288558.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Meio Grávida
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt30253036.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",As Aventuras Sexuais de um Casal em Crise
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt18081000.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",De Volta à Ação
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt18259086.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Sonic 3
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt18259086.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Operação de Risco
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt27635178.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Ad Vitam
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt32138452.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Missão Porto Seguro
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt35330349.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Conexão Jamaica
+http://hd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt0281190.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Grande Mestre
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt1220719.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Grande Mestre 2
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt1386932.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Grande Mestre 3 
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt2888046.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Grande Mestre 4: A Batalha Final
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt2076298.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Mestre Z: O Legado de Ip Man 
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt7262882.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Ip Man Kung Fu Master 
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt12567246.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Terrifier 3
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt27911000.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Hacker – Privacidade Violada
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt11027850.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Cerco ao Terror: Ataque ao Templo
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt14418234.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Operação Natal
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt14948432.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Skincare
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt28223926.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Bagagem de Risco
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt21382296.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Um Fiasco de Férias
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt34608980.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Na Trilha do Perigo
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt12180508.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Guerra Contra o Terror
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt21217688.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",A Vespa
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt21958136.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Roubo Cibernético: Bilhões em Bitcoins
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt18224682.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Mistério no Ártico
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt18482470.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Sede de Sangue
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt11584674.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Nosso Segredinho
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt31022050.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Moana 2
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt13622970.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Venom: A Última Rodada
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt16366836.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Robô Selvagem
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt29623480.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Enfeitiçados
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt7215232.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Shaun o Carneiro: As Lhamas do Fazendeiro
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt5174284.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Shaun o Carneiro: O Filme
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt2872750.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Shaun o Carneiro: Aventura de Natal
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt15857304.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Shaun O Carneiro: A Fazenda Contra-Ataca
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt6193408.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Larva Ilhados – O Filme
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt12588448.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Maggie Moore(s)
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt14181816.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Rebel Ridge
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt11301886.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Assassino por Acaso
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt20215968.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Os Novatos
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt21284218.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",A Liga
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt12610390.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Missão Suicida
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt21301418.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Deadpool & Wolverine
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt6263850.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Um Natal brilhante
+http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD10/tt0790604.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Meu Primo Vinny
+http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD10/tt0104952.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",American Pie 9- Apresenta Meninas ao Ataque
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt11771594.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Amor na Medida Certa
+http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34t345/FHD10/tt0083099.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",American Pie 8– O Reencontro
+http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD3/tt1605630.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",American Pie 7- O Livro do Amor
+http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD3/tt1407050.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",American Pie 6 – Caindo em Tentação
+http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD3/tt0974959.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",American Pie 5 – O Último Stifler Virgem
+http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD3/tt0808146.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",American Pie 4 – Tocando a Maior Zona
+http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD3/tt0436058.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",American Pie 3 - O Casamento
+http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD3/tt0328828.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",American Pie 2 - A Segunda Vez é Ainda Melhor
+http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD3/tt0252866.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",American Pie- A Primeira Vez é Inesquecível
+http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD3/tt0163651.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Não Tem Volta
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt29639785.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",DivertidaMente 2
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt22022452.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Ursinhos Assassinos
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt21924062.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Amigos Sem Compromisso
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt28669770.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",A Semente do Mal
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt26594993.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Pra Lá de Bagdá 
+http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD10/tt0120693.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Pra Lá de Bagdá 2
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt12631486.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Amor na Medida Certa
+http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD10/tt0083099.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Morando com o Crush
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt23456602.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Medidas Extremas
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt12330400.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Zoolander
+http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD10/tt0196229.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Velozes & Furiosos 10
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt5433140.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Meu Vizinho Mafioso
+http://fhd5.oneplayer.site/343rt342wtg34wetg34retg4rghy5rh/FHD5/tt0190138.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Homem nas Trevas
+http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD3/tt4160708.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Homem nas Trevas 2
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt6246322.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Free Guy: Assumindo o Controle
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt6264654.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Destino de Júpiter
+http://fhd1.oneplayer.site/ ertg43r5g34ty34yt543t43wer234t34y3s7/FHD3/tt1617661.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Goyo
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt32598483.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",MR-9: Missão Mortal
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt9044418.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Ataque dos Tubarões
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt21816892.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Nikita: Criada para Matar
+http://hd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt0100263.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Garfield Fora d Casa
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt5779228.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Um Tira da Pesada 4: Axel Foley
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt3083016.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Exorcismo
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt11240348LEG.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Demônio Entre Nós
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt19895130.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Feliz Aniversário Para Mim
+http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD10/tt0082498.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Até a Morte: Sobreviver é a Melhor Vingança
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt11804152.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Hot Wheels AcceleRacers: Ignição
+http://fhd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt2054778.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Hot Wheels AcceleRacers: A Velocidade Do Silêncio
+http://fhd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt0836633.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Hot Wheels AcceleRacers: Ponto De Ruptura
+http://fhd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt0870671.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Hot Wheels AcceleRacers: A Corrida Final
+http://fhd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt0865293.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Um Gato de Sorte
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt7959138.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Bad Boys: Até o Fim
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt4919268.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Swingers – Troca de Casais
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt10297320.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Relacionamento Aberto
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt13868030.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Em Busca do Barco Perdido
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt13243448.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Vidas Importam
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt8171000.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Valorize ou Morra
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt15790974.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Fugindo da Morte
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt13852690.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",A Tentação 
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt18274350.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Mulher nota 1000
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt0090305.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",As Vantagens de Ser Invisível
+http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD3/tt1659337.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Homem nas Trevas
+http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD3/tt4160708.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Homem nas Trevas 2
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt6246322.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Bob Marley: One Love
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt8521778.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",A Arte d Amar
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt28355490.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES", Assassinato de Elite 
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt27028399.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Madame Teia
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt11057302.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",A Lenda do Cavaleiro Sem Cabeça
+http://fhd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt0051850.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Retorno dos Thundermans
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt26943420.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Ricky Stanicky
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt1660648.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES", Donzela 
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt13452446.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Recepcionista
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt7979142.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Xaque Mate
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt30850554.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",A Guerra do Hambúrguer 
+http://fhd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt0119215.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",A Guerra do Hambúrguer 2
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt25289836.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Beekeeper Rede d Vingança 
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt15314262.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Vale do amor
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt13496136.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES", Belo desastre
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt2316548.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Leve-me
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt6598626.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES", 2022 Através da minha Janela
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt14463484.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",2023  Através da minha Janela 2: Além do Mar
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt21245882.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",2024Através da minha Janela 3: Olho nos olhos 
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt28105944.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",40 dias e 40 noites
+http://fhd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt0243736.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Cherry 2000
+http://fhd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD/FHD5/tt0092746.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Acampamento do pecado
+http://fhd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt8949056.mp4
