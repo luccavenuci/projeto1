@@ -63,62 +63,14 @@ http://45.235.0.78/GloboNews/playlist.m3u8
 #EXTINF:-1 tvg-id="GLOBONEWS" tvg-name="GLOBONEWS" tvg-logo="https://i.imgur.com/Wu4ykxo.png" group-title="Canais | NOTÍCIAS",Globo News FHD
 http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/164945
 ############################################################################ Canais | FILMES E SERIES
-#EXTINF:-1 tvg-id="SPACE HD" tvg-name="SPACE HD" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE HD²
-https://cr7v.short.gy/ManoTV/space/index.m3u8
-#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT HD
-http://200.4.96.59:8825/play/a069/index.m3u8
-#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT HD²
-http://45.235.0.78/TNT/playlist.m3u8
-#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT HD³
-https://cr7v.short.gy/ManoTV/esc2/index.m3u8
 #EXTINF:-1 tvg-id="TNT SÉRIES" tvg-name="TNT SÉRIES" tvg-logo="https://imgur.com/vH2tkQt.png" group-title="Canais | FILMES E SERIES",TNT Séries HD
 http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/164958
-#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | FILMES E SERIES",Warner Channel 
-http://45.235.0.78/Warner_Channel/playlist.m3u8
 #EXTINF:-1 tvg-id="WARNER CHANNEL HD" tvg-name="WARNER CHANNEL HD" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | FILMES E SERIES",Warner Channel HD
 http://79.127.238.228:14647/
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Canais | FILMES E SERIES",A&E HD
-http://79.127.238.228:14551/
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Canais | FILMES E SERIES",A&E FHD
-http://45.235.0.78/AE/playlist.m3u8
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://imgur.com/IaxysZJ.png" group-title="Canais | FILMES E SERIES",AXN HD
-http://45.235.0.78/AXN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/oj2sWRk.png" group-title="Canais | FILMES E SERIES",Syfy HD
-http://45.235.0.78/Syfy/playlist.m3u8
-#EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime HD" tvg-logo="https://i.imgur.com/lAPINbh.png" group-title="Canais | FILMES E SERIES",Lifetime HD
-http://45.235.0.78/Lifetime/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | FILMES E SERIES",Telecine Action HD
-http://45.235.0.78:80/Telecine_Action/playlist.m3u8
 #EXTINF:-1 tvg-id="Telecine Action" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | FILMES E SERIES",Telecine Action
 http://79.127.243.211:14632
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="Canais | FILMES E SERIES",Telecine Pipoca HD
-http://200.4.96.59:8825/play/a03k/index.m3u8
-#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://i.imgur.com/SGr7sdL.png" group-title="Canais | FILMES E SERIES",Telecine Premium HD
-http://200.4.96.59:8825/play/a03i/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/viw732w.png" group-title="Canais | FILMES E SERIES",Telecine Touch HD
-http://45.235.0.78/Telecine_Touch/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title="Canais | FILMES E SERIES",Telecine Cult HD
-http://45.235.0.78/Telecine_Cult/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="Canais | FILMES E SERIES",Telecine Fun HD
-http://45.235.0.78/Telecine_Fun/playlist.m3u8
-#EXTINF:-1 tvg-id="AMC BRASIL" tvg-name="AMC BRASIL" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Canais | FILMES E SERIES",AMC HD
-http://45.235.0.78/AMC/playlist.m3u8
-#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Canais | FILMES E SERIES",CINEMAX HD
-http://45.235.0.78/Cinemax/playlist.m3u8
-#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://imgur.com/H03jUu1.png" group-title="Canais | FILMES E SERIES",MEGAPIX HD
-https://cr7v.short.gy/ManoTV/HBO/temporário/index.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO HD
 http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/164950
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO HD²
-http://200.4.96.59:8825/play/a04u/index.m3u8
-#EXTINF:-1 tvg-id="HBO+" tvg-name="HBO+" tvg-logo="https://i.imgur.com/VGBP9wj.png" group-title="Canais | FILMES E SERIES",HBO+ HD
-http://200.4.96.59:8825/play/a04w/index.m3u8
-#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SERIES",HBO 2 HD
-http://200.4.96.59:8825/play/a04v/index.m3u8
-#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Canais | FILMES E SERIES",HBO Family HD
-http://200.4.96.59:8825/play/a0ko/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Canais | FILMES E SERIES",Universal Channel HD
-http://45.235.0.78/Universal_TV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://abre.ai/mkUi" group-title="Canais | FILMES E SERIES",Cinerama 🇧🇴 (Bolívia)
 https://owncloud1692001.fasthostunlimited.com/hls/0/stream.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/f35UF5q.png" group-title="Canais | FILMES E SERIES",MyTime Movies
@@ -138,44 +90,19 @@ https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://hdtvone.tv/wp-content/uploads/2018/09/cropped-HTO.tv-LOGO-HEADER-e1535917877621-1.png" group-title="Canais | FILMES E SERIES",HTO FILMES
 https://cdn-3.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
 ############################################################################ Canais | INFANTIL
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/9X7XBlD.png" group-title="Canais | INFANTIL",Fox Kids
-https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/05E0q6L.png" group-title="Canais | INFANTIL",TV Gallo
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
-#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-logo="https://i.imgur.com/WxKCkhL.png" group-title="Canais | INFANTIL",DISCOVERY KIDS HD
-http://45.235.0.78/Discovery_Kids/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/WHmHmUH.png" group-title="Canais | INFANTIL",Zoomoo HD
-http://onebox.sbs:80/tanaka/302718/7689965.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/x33MwPN.png" group-title="Canais | INFANTIL",RETRO CARTOON
-https://stmv6.voxtvhd.com.br/retrotv/retrotv/playlist.m3u8?hls_ctx=7051jd15
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/x33MwPN.png" group-title="Canais | INFANTIL",RETRO CARTOON 2
-https://stmv6.voxtvhd.com.br/retrotv2/retrotv2/playlist.m3u8?hls_ctx=993r4ec4
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/x33MwPN.png" group-title="Canais | INFANTIL",RETRO CARTOON 3
-https://stmv6.voxtvhd.com.br/retrotv3/retrotv3/playlist.m3u8?hls_ctx=nk970np0
-#EXTINF:-1 tvg-logo="https://imgur.com/BmmsPO8.png" group-title="Canais | INFANTIL",TVZYN
-https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/hrBA4dU.png" group-title="Canais | INFANTIL",Universo Kids
-https://srv3.zcast.com.br/universo3/universo3/playlist_w554522056.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rbc6oFF.png " group-title="Canais | INFANTIL",D.P.A
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/DPA_Fast_BR/DPA_Fast.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eu93gIQ.png " group-title="Canais | INFANTIL",Mr Bean Animated
 https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Banijay/Mr_Bean_BR/Mr_Bean.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/9lWh5bb.png" group-title="Canais | INFANTIL",ADULT SWIM HD
-http://onebox.sbs:80/tanaka/302718/7689963.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1JVrZFk.png" group-title="Canais | INFANTIL",Ministério Infantil TV
 http://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KEQvBuF.png" group-title="Canais | INFANTIL",Sonic
 https://d1si3n1st4nkgb.cloudfront.net/10000/88876021/hls/master.m3u8?ads.xumo_channelId=88876021
-#EXTINF:-1  tvg-logo="https://i.imgur.com/1NPDhgI.png" group-title="Canais | INFANTIL",TV Itapetinga
-https://stmv1.samcast.com.br/eroaldo15634/eroaldo15634/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/EXJhYFi.png" group-title="Canais | INFANTIL",TV Itapetinga Kids
-https://stmv2.voxtvhd.com.br/eroaldo/eroaldo/playlist.m3u8?hls_ctx=6w6o1x4w
 ############################################################################ TV ABERTA 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/FoPnWx0.png" group-title="Canais | ABERTO",TV Evangelizar 
 https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
-#EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/wKpiAOj.png" group-title="Canais | ABERTO",TV Guará MA
-https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u
 #EXTINF:-1 tvg-id="TVE" tvg-logo="https://i.imgur.com/qoQEi7z.png" group-title="Canais | ABERTO",TVE RS
 https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/31xazuV.png " group-title="Canais | ABERTO",RNS TV HD
@@ -194,3 +121,241 @@ http://24.152.8.38:5001/live/olhatv/index.m3u8
 https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0Hbt4qg.png" group-title="Canais | ABERTO",TV Candidés
 https://cdn.live.br1.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/playlist.m3u8
+############################################################################ CANAIS LG
+#EXTINF:0,Adrenalina Plus (BR)
+https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0,Agora TV (BR)
+https://agoratv-lg.amagi.tv/playlist.m3u8
+#EXTINF:0,AMC All Reality (US)
+https://amc-absolutereality-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:60,AMC Espanol (US)
+https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,AMC Stories (US)
+https://amc-amcpresents-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,AMC Portlandia (US)
+https://amc-portlandia-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,AMD The Walking Dead Fan Experience (US)
+https://amc-twdfanexperience-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Anger Management (US)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-angermanagement-lgus/playlist.m3u8
+#EXTINF:0,Are we There Yet (US)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyet-lgus/playlist.m3u8
+#EXTINF:0,Artflix (AT)
+https://amogonetworx-artflix-2-at.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Artflix (DE)
+https://amogonetworx-artflix-2-de.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Artflix (ES)
+https://amogonetworx-artflix-3-es.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Artflix (GB)
+https://amogonetworx-artflix-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Artflix (CH)
+https://amogonetworx-artflix-2-ch.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Autentic History (AU)
+https://autentic-autentichistory-1-au.lg.wurl.tv/playlist.m3u8%09
+#EXTINF:0,Autentic History (DK)
+https://autentic-autentichistory-1-dk.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Autentic History (FI)
+https://autentic-autentichistory-1-fi.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Autentic History (GB)
+https://autentic-autentichistory-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Autentic History (IE)
+https://autentic-autentichistory-1-ie.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Autentic History (NL)
+https://autentic-autentichistory-1-nl.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Autentic History (NO)
+https://autentic-autentichistory-1-no.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Autentic History (SE)
+https://autentic-autentichistory-1-se.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Autentic Travel (AU)
+https://autentic-autentictravel-1-au.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Autentic Travel (DK)
+https://autentic-autentictravel-1-dk.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Autentic Travel (FI)
+https://autentic-autentictravel-1-fi.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Autentic Travel (GB)
+https://autentic-autentictravel-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Autentic Travel (IE)
+https://autentic-autentictravel-1-ie.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Autentic Travel (SE)
+https://autentic-autentictravel-1-se.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Autentic Travel (NL)
+https://autentic-autentictravel-1-nl.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Autentic Travel (NO)
+https://autentic-autentictravel-1-no.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Autentic Spiegel TV Konflikte (AT)
+https://autentic-spiegeltv-konflikte-1-at.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Autentic Spiegel TV Konflikte (DE)
+https://autentic-spiegeltv-konflikte-1-de.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Autentic Spiegel TV Konflikte (CH)
+https://autentic-spiegeltv-konflikte-1-ch.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Autentic Terramater Wild (AT)
+https://autentic-terramaterwild-1-at.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Autentic Terramater Wild (DE)
+https://autentic-terramaterwild-1-de.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,AWE
+https://awe-lg.amagi.tv/playlist.m3u8
+#EXTINF:0,AWE (AU)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00450-herringnetwork-awe-lgau/playlist.m3u8
+#EXTINF:0,Awe Encore
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/oneameric-aweencore-lg/playlist.m3u8
+#EXTINF:0,Antiques Road Show (US) Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02333-pbsdistribution-antiquesroadshow-lgus/playlist.m3u8
+#EXTINF:0,Aventura (US) Geo
+https://amg00136-wbd-amg00136c53-lg-us-5712.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0,B4U Movies (IN) Geo
+https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0,B4U Music (IN) Geo
+https://amg00877-b4unew-amg00877c3-lg-in-5261.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0,B4U Kadak (IN) Geo
+https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0,Baby Shark TV (AU)
+https://newidco-babysharktv-1-au.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Baby Shark TV (CA)
+https://newidco-babysharktv-1-ca.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Baby Shark TV (DE)
+https://newidco-babysharktv-1-de.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Baby Shark TV (FR)
+https://newidco-babysharktv-1-fr.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Baby Shark TV (GB)
+https://newidco-babysharktv-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Baby Shark TV (IT)
+https://newidco-babysharktv-1-it.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Baby Shark TV (US)
+https://newidco-babysharktv-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Baywatch (CA) Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-baywatch-lgca/playlist.m3u8
+#EXTINF:0,Baywatch (US)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-baywatch-lgus/playlist.m3u8
+#EXTINF:0,BBC Bargain Hunt (US)
+https://bbc-studios-bargainhunt-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,BBC Earth (US)
+https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+#EXTINF:0,BBC Top Gear (US)
+https://amg00793-bbcstudios-amg00793c4-lg-us-2527.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbctopgear8min-lgus/playlist.m3u8
+#EXTINF:0,BBC Top Gear (CA)
+https://amg00793-bbcstudios-amg00793c4-lg-ca-3070.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0,BBC Dinos 24x7 (US)
+https://amg00793-amg00793c35-lg-us-6412.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0,Beano TV (GB)
+https://beanostudios-beanotv-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Bigtjme (GB)
+https://amogonetworx-bigtjme-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Billiard TV (US) Geo
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01267-triplebmedia-billiardtv-lgus/playlist.m3u8
+#EXTINF:0,Billiard TV (CA) Geo
+https://amg01267-tripleb-amg01267c1-lg-ca-1303.playouts.now.amagi.tv/playlist/amg01267-tripleb-billiardstv-lgca/playlist.m3u8
+#EXTINF:0,Bizzarro Movies (IT)
+https://minerva-bizzarromovies-1-it.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Bloomberg Originals (BR)
+https://bloomberg-quicktake-4-br.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Bloomberg TV (BR)
+https://bloomberg-bloombergtv-1-br.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Bref Cinema (FR)
+https://lagenceducourtmetrage-brefcinema-01-fr.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Brightside English (AU) Geo
+#EXTINF:0,Canal Anime Onegai 1 Portuguese (BR)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11777
+#EXTINF:0,Canal Anime Onegai 2 Portuguese (BR)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11776
+#EXTINF:0,Canal Anime Onegai 3 Portuguese (BR)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11775
+#EXTINF:0,Canal Anime Onegai 4 Portuguese (BR)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11774
+#EXTINF:0,Canal Anime Onegai 5 Portuguese (BR)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11773%20
+#EXTINF:0,Canal Rural (BR)
+https://brn-crbr-lg-channels-br.otteravision.com/brn/crbr/crbr.m3u8
+#EXTINF:0,BR IN TV (BR)
+https://brn-br-lg-channels-br.otteravision.com/brn/bt/bt_h265.m3u8
+#EXTINF:0,CNN Brasil (BR) Geo
+https://amg01391-sbtinfast-amg01391c4-lg-br-4597.playouts.now.amagi.tv/playlist/amg01391-addigital-cnnbrasil-lgbr/playlist.m3u8
+#EXTINF:0,Fashion TV (BR)
+https://fashiontv-fashiontv-5-br.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Filmelier TV (BR)
+https://amg00740-sofa-amg00740c8-lg-br-7321.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0,Film Gold (CH)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01866-mainstreammedia-filmgoldch-lgch/playlist.m3u8
+#EXTINF:0,Fuel TV Brazil PT (BR)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbrpt-lgbr/playlist.m3u8
+#EXTINF:0,Go USA (BR)
+https://brandusa-gousa-1-br.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,GPTV (BR)
+https://amg26329-amg26329c1-amgplt0030.playout.now3.amagi.tv/playlist.m3u8
+#EXTINF:0,Manual do Mundo (BR)
+https://amg17288-offgrid-amg17288c2-lg-br-6103.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0,Masterchef (BR)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-masterchef-lgbr/playlist.m3u8
+#EXTINF:0,MOB TV (BR)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01324-infamousmedia-mobtv-lgbr/playlist.m3u8
+#EXTINF:0,MovieDome Family
+https://kochmedia-moviedomefamily-lg.amagi.tv/playlist.m3u8
+#EXTINF:0,Movies 4 Free
+https://movies4free-lg.amagi.tv/playlist.m3u8
+#EXTINF:0,New Brasil (BR) Geo
+https://amg01391-sbtinfast-amg01391c5-lg-br-6099.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0,New Kid (BR)
+https://newidco-newkid-1-br.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Qwest Jazz (BR)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-lgbr/playlist.m3u8
+#EXTINF:0,Runtime Romance Portuguese (BR)
+https://run-ro-br-lgchannels.otteravision.com/run/ro_br/ro_br.m3u8
+#EXTINF:0,Runtime Familia Portuguese (BR)
+https://run-rufb-lgchannels.otteravision.com/run/rufb/rufb.m3u8
+#EXTINF:0,Runtime TV Cine Espanto (BR)
+https://run-th-br-lgchannels.otteravision.com/run/th_br/th_br.m3u8
+#EXTINF:0,Runtime Crime Portuguese (BR)
+https://run-cr-br-lgchannels.otteravision.com/run/cr_br/cr_br.m3u8
+#EXTINF:0,Runtime Comedia Portuguese (BR)
+https://run-rc-br-lgchannels.otteravision.com/run/rc_br/rc_br.m3u8
+#EXTINF:0,Runtime Ação Portuguese (BR)
+https://run-rt-ra-lgchannels.otteravision.com/run/rt_ra/rt_ra.m3u8%20
+#EXTINF:0,Sabor & Arte 2 (BR) Geo
+https://amg01391-sbtinfast-amg01391c6-lg-br-6100.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0,SBT International (BR) Brazil or U.S ip
+https://amg01391-sbtinfast-amg01391c1-lg-br-654.playouts.now.amagi.tv/playlist/amg01391-addigital-sbtinternational-lgbr/playlist.m3u8
+#EXTINF:0,Sony One Emoções (BR)
+https://spt-sonyoneemocoes-1-br.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Sony One Shark Tank (BR)
+https://spt-sonyonesharktankbrasil-1-br.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Sony One Cinema (BR)
+https://spt-sonyoneclassicas-1-br.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Spark Light Love (BR)
+https://candlelightmedia-sparklightlove-3-br.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,Travel Plus (BR) Geo	
+https://amg24440-travelplus-amg24440c1-lg-br-6141.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0,Television Concientes (BR) Geo
+https://television-concientes-lgbr.amagi.tv/playlist.m3u8
+#EXTINF:0,Trace Brazuca (BR) Geo
+https://trace-brazuca-lg-br.amagi.tv/playlist.m3u8
+#EXTINF:0,Turma Da Monica (BR)
+https://amg00740-sofa-amg00740c9-lg-br-7304.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0,TV ZYN (BR)
+https://amg01391-sbtinfast-amg01391c2-lg-br-651.playouts.now.amagi.tv/playlist/amg01391-addigital-tvzyn-lgbr/playlist.m3u8
+#EXTINF:0,Vivaldi TV (BR) Geo
+https://mezzo-vivalditv-lg-br.amagi.tv/playlist.m3u8
+#EXTINF:0,Young Hollywood (AU)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00143-younghollywood-yunghollywd-lgau/playlist.m3u8
+#EXTINF:0,Show Champion
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5464
+#EXTINF:0,Weekly Idol
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5466
+#EXTINF:0,Arirang K-pop
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5468
+#EXTINF:0,Cocobi
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5476
+#EXTINF:0,Kongsuni
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5478
+#EXTINF:0,Tobot
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5480
+#EXTINF:0,Robocar Poli
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5482
+#EXTINF:0,My Little Pet
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5484
+#EXTINF:0,Running Man
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5490
+#EXTINF:0,K-Star Golf
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5498
+#EXTINF:0,CBS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5529
+#EXTINF:0,Korean to id
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5500
