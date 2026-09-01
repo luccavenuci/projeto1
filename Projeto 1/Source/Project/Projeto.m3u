@@ -667,3 +667,7 @@ http://64.31.42.166:14853/live.ts
 http://64.31.42.166:14854/live.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png",CazéTV 214
 http://64.31.42.166:14993/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png",Freeform East
+http://4.30.180.36:8420/freeform/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png",Ion Tv East
+http://23.237.104.106:8080/USA_ION/index.m3u8
