@@ -104,6 +104,104 @@ https://d1si3n1st4nkgb.cloudfront.net/10000/88876021/hls/master.m3u8?ads.xumo_ch
 #EXTINF:-1 tvg-logo="http://i.imgur.com/FoPnWx0.png" group-title="Canais | ABERTO",TV Evangelizar 
 https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
 ###################################################################### Eletrovision373iptv/censys-iptv-bot/blob/main/playlists/CANAIS24H.m3u
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - As Novas Aventuras de Flash Gordon
+http://216.245.192.46:14919/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Bob Esponja
+http://64.31.16.119:14682/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Bob Esponja HD
+http://64.31.42.166:14682/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Buzz Lightyear
+http://216.245.192.46:14827/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Caverna do Dragão
+http://64.31.16.119:14681/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Caverna do Dragão HD
+http://64.31.42.166:14681/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Cocoricó
+http://64.31.16.119:14643/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Cocoricó HD
+http://64.31.42.166:14643/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Cry Babies Magic Tears
+http://64.31.16.119:14679/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Cry Babies Magic Tears HD
+http://64.31.42.166:14679/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Em Busca do Vale Encantado
+http://64.31.16.119:14993/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Galinha Pintadinha
+http://64.31.16.119:14632/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Galinha Pintadinha HD
+http://64.31.42.166:14632/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Homem Aranha
+http://64.31.16.119:14674/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Homem Aranha HD
+http://64.31.42.166:14674/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Kuzco
+http://216.245.192.46:14800/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Leo e Tig
+http://64.31.16.119:14692/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Masha e o Urso
+http://64.31.16.119:14631/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Masha e o Urso HD
+http://64.31.42.166:14631/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - O Grande Dragão: Shadowlord
+http://216.245.192.46:14967/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - O Lobo Mau e os Três Porquinhos
+http://64.31.16.119:14738/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Os Flintstones
+http://64.31.16.119:14667/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Os Flintstones 2
+http://64.31.16.119:14739/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Os Jetsons
+http://64.31.42.166:14650/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Os Simpsons
+http://64.31.16.119:14708/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Os Simpsons 2
+http://64.31.16.119:14709/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Patrulia Canina
+http://64.31.16.119:14690/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Patrulia Canina HD
+http://64.31.42.166:14690/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Pink e Cérebro
+http://64.31.16.119:14641/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Pink e Cérebro HD
+http://64.31.42.166:14641/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - PJ Masks: Heróis de Pijamas
+http://64.31.16.119:14748/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Pocoyo
+http://64.31.16.119:14647/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Pocoyo HD
+http://64.31.42.166:14647/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Popeye
+http://64.31.16.119:14637/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Popeye HD
+http://64.31.42.166:14637/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - South Park
+http://64.31.16.119:14742/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Série - A Grande Família
+http://64.31.16.119:14648/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Série - A Grande Família HD
+http://64.31.42.166:14648/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Série - Dois Homens e Meio
+http://64.31.16.119:14645/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Série - Dois Homens e Meio HD
+http://64.31.42.166:14645/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Série - Eu a Patroa e as Crianças
+http://64.31.16.119:14635/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Série - Eu a Patroa e as Crianças HD
+http://64.31.42.166:14635/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Série - Superman & Lois
+http://64.31.16.119:14747/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Série - Superman & Lois 2
+http://64.31.42.166:14747/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Série - Supergirl: Woman of Tomorrow
+http://216.245.192.46:14111/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Série - The Chosen
+http://64.31.16.119:14735/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Série - Todo Mundo Odeia o Chris
+http://64.31.16.119:14646/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Série - Todo Mundo Odeia o Chris HD
+http://64.31.42.166:14646/live.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Série - Yellowstone
+http://64.31.16.119:14745/live.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",A&E
 http://216.245.192.46:14004/live.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",A&E FHD
@@ -180,10 +278,6 @@ http://216.245.192.46:14048/live.ts
 http://216.245.192.46:14066/live.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Bis 2
 http://216.245.192.46:14067/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Bis 3
-http://216.245.192.46:14068/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Bis 4
-http://216.245.192.46:14069/live.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Bloomberg
 http://216.245.192.46:14070/live.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Bloomberg Full HD
@@ -194,78 +288,6 @@ http://216.245.192.46:14834/live.ts
 http://216.245.192.46:14945/live.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Cazé TV
 http://216.245.192.46:14061/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - As Novas Aventuras de Flash Gordon
-http://216.245.192.46:14919/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Bob Esponja
-http://64.31.16.119:14682/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Bob Esponja HD
-http://64.31.42.166:14682/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Buzz Lightyear
-http://216.245.192.46:14827/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Caverna do Dragão
-http://64.31.16.119:14681/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Caverna do Dragão HD
-http://64.31.42.166:14681/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Cocoricó
-http://64.31.16.119:14643/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Cocoricó HD
-http://64.31.42.166:14643/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Cry Babies Magic Tears
-http://64.31.16.119:14679/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Cry Babies Magic Tears HD
-http://64.31.42.166:14679/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png",Desenho - Em Busca do Vale Encantado
-http://64.31.16.119:14993/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Galinha Pintadinha
-http://64.31.16.119:14632/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Galinha Pintadinha HD
-http://64.31.42.166:14632/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Homem Aranha
-http://64.31.16.119:14674/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Homem Aranha HD
-http://64.31.42.166:14674/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Kuzco
-http://216.245.192.46:14800/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Leo e Tig
-http://64.31.16.119:14692/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Masha e o Urso
-http://64.31.16.119:14631/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Masha e o Urso HD
-http://64.31.42.166:14631/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - O Grande Dragão: Shadowlord
-http://216.245.192.46:14967/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - O Lobo Mau e os Três Porquinhos
-http://64.31.16.119:14738/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Os Flintstones
-http://64.31.16.119:14667/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Os Flintstones 2
-http://64.31.16.119:14739/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Os Jetsons
-http://64.31.42.166:14650/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Os Simpsons
-http://64.31.16.119:14708/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Os Simpsons 2
-http://64.31.16.119:14709/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Patrulia Canina
-http://64.31.16.119:14690/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Patrulia Canina HD
-http://64.31.42.166:14690/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Pink e Cérebro
-http://64.31.16.119:14641/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Pink e Cérebro HD
-http://64.31.42.166:14641/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - PJ Masks: Heróis de Pijamas
-http://64.31.16.119:14748/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Pocoyo
-http://64.31.16.119:14647/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Pocoyo HD
-http://64.31.42.166:14647/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Popeye
-http://64.31.16.119:14637/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Popeye HD
-http://64.31.42.166:14637/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - South Park
-http://64.31.16.119:14742/live.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Dum Dum TV
 http://216.245.192.46:14766/live.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Dum Dum TV HD
@@ -302,11 +324,7 @@ http://216.245.192.46:14432/live.ts
 http://216.245.192.46:14430/live.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Ion Tv East - USA
 http://23.237.104.106:8080/USA_ION/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Novelas Globo 1
-http://64.31.16.119:14694/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Novelas Globo 2
-http://64.31.16.119:14696/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Papaleguas e Coyote
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Papaleguas e Coyote
 http://64.31.42.166:14672/live.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Paramount+
 http://209.14.85.164:14133/live.ts
@@ -314,8 +332,6 @@ http://209.14.85.164:14133/live.ts
 http://216.245.192.46:14770/live.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAISADULTOS",Playboy TV
 http://216.245.192.46:14503/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Premiere
-http://209.14.85.164:14663/live.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Record TV 1
 http://216.245.192.46:14542/live.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Record TV 2
@@ -354,8 +370,6 @@ http://216.245.192.46:14641/live.ts
 http://209.14.85.164:14963/live.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Sport TV 3 - PT
 http://209.14.85.164:14953/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Sport TV 4 - PT
-http://209.14.85.164:14958/live.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Sportv 2
 http://64.31.16.119:14442/live.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Sportv 2 HD
@@ -368,32 +382,6 @@ http://216.245.192.46:14658/live.ts
 http://216.245.192.46:14661/live.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Studio Universal HD
 http://216.245.192.46:14660/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Série - A Grande Família
-http://64.31.16.119:14648/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Série - A Grande Família HD
-http://64.31.42.166:14648/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Série - Dois Homens e Meio
-http://64.31.16.119:14645/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Série - Dois Homens e Meio HD
-http://64.31.42.166:14645/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Série - Eu a Patroa e as Crianças
-http://64.31.16.119:14635/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Série - Eu a Patroa e as Crianças HD
-http://64.31.42.166:14635/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Série - Superman & Lois
-http://64.31.16.119:14747/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Série - Superman & Lois 2
-http://64.31.42.166:14747/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Série - Supergirl: Woman of Tomorrow
-http://216.245.192.46:14111/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Série - The Chosen
-http://64.31.16.119:14735/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Série - Todo Mundo Odeia o Chris
-http://64.31.16.119:14646/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Série - Todo Mundo Odeia o Chris HD
-http://64.31.42.166:14646/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Série - Yellowstone
-http://64.31.16.119:14745/live.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",TCM
 http://216.245.192.46:14670/live.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",TCM SD
