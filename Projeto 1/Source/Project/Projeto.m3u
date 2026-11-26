@@ -134,8 +134,6 @@ http://64.31.16.119:14632/live.ts
 http://64.31.42.166:14632/live.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Homem Aranha
 http://64.31.16.119:14674/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Homem Aranha HD
-http://64.31.42.166:14674/live.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Kuzco
 http://216.245.192.46:14800/live.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Desenho - Leo e Tig
@@ -201,10 +199,6 @@ http://142.99.103.19:14068/live.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",A&E HD 2
 http://142.99.103.28:14901/live.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",AMC
-http://216.245.192.46:14008/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",AMC FHD
-http://216.245.192.46:14010/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",AMC HD
 http://142.99.103.20:14906/live.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Animal Planet
 http://142.99.103.21:14135/live.ts
@@ -226,24 +220,14 @@ http://216.245.192.46:14022/live.ts
 http://142.99.103.28:14801/live.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Band 2
 http://142.99.103.28:14810/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Band FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Band 3
 http://216.245.192.46:14030/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Band News 1
-http://216.245.192.46:14041/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Band News 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Band News
 http://216.245.192.46:14042/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Band News 3
-http://216.245.192.46:14043/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Band News 4
-http://216.245.192.46:14044/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Band Sports 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Band Sports
 http://216.245.192.46:14045/live.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Band Sports 2
 http://216.245.192.46:14046/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Band Sports 3
-http://216.245.192.46:14047/live.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Band Sports 4
-http://216.245.192.46:14048/live.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Bis 1
 http://142.99.103.21:14180/live.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dPaFa7x.png" group-title="CANAIS24H",Bis 2
